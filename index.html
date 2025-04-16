@@ -1,0 +1,83 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>REAP College Predictor</title>
+  <style>
+    body { font-family: Arial; padding: 20px; }
+    input, select, button { margin: 10px 0; padding: 5px; }
+    table { width: 100%; border-collapse: collapse; margin-top: 20px; }
+    th, td { border: 1px solid #ccc; padding: 8px; text-align: left; }
+    th { background: #f0f0f0; }
+  </style>
+</head>
+<body>
+  <h2>REAP College Predictor</h2>
+  
+  <label for="rank">Enter CRL Rank:</label>
+  <input type="number" id="rank" />
+
+  <label for="category">Select Category:</label>
+  <select id="category"></select>
+
+  <button onclick="predict()">Predict Colleges</button>
+
+  <table id="results" style="display:none;">
+    <thead>
+      <tr>
+        <th>College Name</th>
+        <th>Location</th>
+        <th>Category</th>
+        <th>Approx. Total Fees (4 years)</th>
+        <th>Hostel Fees</th>
+        <th>Highest Package (Approx. CTC)</th>
+      </tr>
+    </thead>
+    <tbody></tbody>
+  </table>
+
+  <script>
+    let data = [];
+
+    async function loadData() {
+      const res = await fetch('REAP_Counseling_Cleaned.json');
+      data = await res.json();
+
+      const categories = [...new Set(data.map(d => d['Category']))];
+      const categorySelect = document.getElementById('category');
+      categories.forEach(cat => {
+        const option = document.createElement('option');
+        option.value = cat;
+        option.textContent = cat;
+        categorySelect.appendChild(option);
+      });
+    }
+
+    function predict() {
+      const userRank = parseInt(document.getElementById('rank').value);
+      const category = document.getElementById('category').value;
+      const results = data.filter(d => d['Category'] === category && userRank <= d['CRL Rank']);
+
+      const tbody = document.querySelector('#results tbody');
+      tbody.innerHTML = '';
+      results.forEach(row => {
+        const tr = document.createElement('tr');
+        tr.innerHTML = `
+          <td>${row['College Name'] || '-'}</td>
+          <td>${row['Location'] || '-'}</td>
+          <td>${row['Category']}</td>
+          <td>${row['Approx. Total Fees (4 years)'] || 'N/A'}</td>
+          <td>${row['Hostel Fees'] || 'N/A'}</td>
+          <td>${row['Highest Package (Approx. CTC)'] || 'N/A'}</td>
+        `;
+        tbody.appendChild(tr);
+      });
+
+      document.getElementById('results').style.display = results.length ? 'table' : 'none';
+    }
+
+    loadData();
+  </script>
+</body>
+</html>
