@@ -1,0 +1,4542 @@
+[
+    {
+        "College Name":"MBM Engineering College",
+        "Location":"Jodhpur",
+        "Category":"General",
+        "Percentile":97,
+        "CRL Rank":28000,
+        "Approx. Total Fees(4 years)":"2.8 Lakh",
+        "Hostel Fees":"\u20b930k\u201350k",
+        "Highest Package (Approx. CTC)":"\u20b914\u201318 LPA"
+    },
+    {
+        "College Name":"MBM Engineering College",
+        "Location":"Jodhpur",
+        "Category":"EWS",
+        "Percentile":92,
+        "CRL Rank":68000,
+        "Approx. Total Fees(4 years)":"2.8 Lakh",
+        "Hostel Fees":"\u20b930k\u201350k",
+        "Highest Package (Approx. CTC)":"\u20b914\u201318 LPA"
+    },
+    {
+        "College Name":"MBM Engineering College",
+        "Location":"Jodhpur",
+        "Category":"OBC",
+        "Percentile":90,
+        "CRL Rank":85000,
+        "Approx. Total Fees(4 years)":"2.8 Lakh",
+        "Hostel Fees":"\u20b930k\u201350k",
+        "Highest Package (Approx. CTC)":"\u20b914\u201318 LPA"
+    },
+    {
+        "College Name":"MBM Engineering College",
+        "Location":"Jodhpur",
+        "Category":"SC",
+        "Percentile":72,
+        "CRL Rank":300000,
+        "Approx. Total Fees(4 years)":"2.8 Lakh",
+        "Hostel Fees":"\u20b930k\u201350k",
+        "Highest Package (Approx. CTC)":"\u20b914\u201318 LPA"
+    },
+    {
+        "College Name":"MBM Engineering College",
+        "Location":"Jodhpur",
+        "Category":"ST",
+        "Percentile":65,
+        "CRL Rank":420000,
+        "Approx. Total Fees(4 years)":"2.8 Lakh",
+        "Hostel Fees":"\u20b930k\u201350k",
+        "Highest Package (Approx. CTC)":"\u20b914\u201318 LPA"
+    },
+    {
+        "College Name":"College of Technology and Engineering (CTAE)",
+        "Location":"Udaipur",
+        "Category":"General",
+        "Percentile":96,
+        "CRL Rank":35000,
+        "Approx. Total Fees(4 years)":"2.6 Lakh",
+        "Hostel Fees":"\u20b935k\u201350k",
+        "Highest Package (Approx. CTC)":"\u20b910\u201312 LPA"
+    },
+    {
+        "College Name":"College of Technology and Engineering (CTAE)",
+        "Location":"Udaipur",
+        "Category":"EWS",
+        "Percentile":91,
+        "CRL Rank":75000,
+        "Approx. Total Fees(4 years)":"2.6 Lakh",
+        "Hostel Fees":"\u20b935k\u201350k",
+        "Highest Package (Approx. CTC)":"\u20b910\u201312 LPA"
+    },
+    {
+        "College Name":"College of Technology and Engineering (CTAE)",
+        "Location":"Udaipur",
+        "Category":"OBC",
+        "Percentile":89,
+        "CRL Rank":95000,
+        "Approx. Total Fees(4 years)":"2.6 Lakh",
+        "Hostel Fees":"\u20b935k\u201350k",
+        "Highest Package (Approx. CTC)":"\u20b910\u201312 LPA"
+    },
+    {
+        "College Name":"College of Technology and Engineering (CTAE)",
+        "Location":"Udaipur",
+        "Category":"SC",
+        "Percentile":70,
+        "CRL Rank":340000,
+        "Approx. Total Fees(4 years)":"2.6 Lakh",
+        "Hostel Fees":"\u20b935k\u201350k",
+        "Highest Package (Approx. CTC)":"\u20b910\u201312 LPA"
+    },
+    {
+        "College Name":"College of Technology and Engineering (CTAE)",
+        "Location":"Udaipur",
+        "Category":"ST",
+        "Percentile":63,
+        "CRL Rank":450000,
+        "Approx. Total Fees(4 years)":"2.6 Lakh",
+        "Hostel Fees":"\u20b935k\u201350k",
+        "Highest Package (Approx. CTC)":"\u20b910\u201312 LPA"
+    },
+    {
+        "College Name":"Government Engineering College",
+        "Location":"Ajmer",
+        "Category":"General",
+        "Percentile":91,
+        "CRL Rank":75000,
+        "Approx. Total Fees(4 years)":"2.4 Lakh",
+        "Hostel Fees":"\u20b930k\u201340k",
+        "Highest Package (Approx. CTC)":"\u20b96\u20138 LPA"
+    },
+    {
+        "College Name":"Government Engineering College",
+        "Location":"Bikaner",
+        "Category":"General",
+        "Percentile":91,
+        "CRL Rank":75000,
+        "Approx. Total Fees(4 years)":"2.4 Lakh",
+        "Hostel Fees":"\u20b930k\u201340k",
+        "Highest Package (Approx. CTC)":"\u20b96\u20138 LPA"
+    },
+    {
+        "College Name":"Government Engineering College",
+        "Location":"Bharatpur",
+        "Category":"General",
+        "Percentile":91,
+        "CRL Rank":75000,
+        "Approx. Total Fees(4 years)":"2.4 Lakh",
+        "Hostel Fees":"\u20b930k\u201340k",
+        "Highest Package (Approx. CTC)":"\u20b96\u20138 LPA"
+    },
+    {
+        "College Name":"Government Engineering College",
+        "Location":"Jhalawar",
+        "Category":"General",
+        "Percentile":91,
+        "CRL Rank":75000,
+        "Approx. Total Fees(4 years)":"2.4 Lakh",
+        "Hostel Fees":"\u20b930k\u201340k",
+        "Highest Package (Approx. CTC)":"\u20b96\u20138 LPA"
+    },
+    {
+        "College Name":"Government Engineering College",
+        "Location":"Banswara",
+        "Category":"General",
+        "Percentile":91,
+        "CRL Rank":75000,
+        "Approx. Total Fees(4 years)":"2.4 Lakh",
+        "Hostel Fees":"\u20b930k\u201340k",
+        "Highest Package (Approx. CTC)":"\u20b96\u20138 LPA"
+    },
+    {
+        "College Name":"Government Engineering College",
+        "Location":"Barmer",
+        "Category":"General",
+        "Percentile":91,
+        "CRL Rank":75000,
+        "Approx. Total Fees(4 years)":"2.4 Lakh",
+        "Hostel Fees":"\u20b930k\u201340k",
+        "Highest Package (Approx. CTC)":"\u20b96\u20138 LPA"
+    },
+    {
+        "College Name":"Anand International College of Engineering",
+        "Location":"Jaipur",
+        "Category":"General",
+        "Percentile":84,
+        "CRL Rank":175000,
+        "Approx. Total Fees(4 years)":"3.2 - 3.6 Lakh",
+        "Hostel Fees":"\u20b960k\u201375k",
+        "Highest Package (Approx. CTC)":"\u20b96\u20139 LPA"
+    },
+    {
+        "College Name":"Arya College of Engineering and IT",
+        "Location":"Jaipur",
+        "Category":"General",
+        "Percentile":85,
+        "CRL Rank":165000,
+        "Approx. Total Fees(4 years)":"3.0 - 3.5 Lakh",
+        "Hostel Fees":"\u20b960k\u201380k",
+        "Highest Package (Approx. CTC)":"\u20b98\u201310 LPA"
+    },
+    {
+        "College Name":"Government Engineering College",
+        "Location":"Bikaner",
+        "Category":"ST",
+        "Percentile":64,
+        "CRL Rank":430000,
+        "Approx. Total Fees(4 years)":"2.4 Lakh",
+        "Hostel Fees":"\u20b930k\u201340k",
+        "Highest Package (Approx. CTC)":"\u20b96\u20138 LPA"
+    },
+    {
+        "College Name":"Anand International College of Engineering",
+        "Location":"Jaipur",
+        "Category":"General",
+        "Percentile":84,
+        "CRL Rank":175000,
+        "Approx. Total Fees(4 years)":"3.2 - 3.6 Lakh",
+        "Hostel Fees":"\u20b960k\u201375k",
+        "Highest Package (Approx. CTC)":"\u20b96\u20139 LPA"
+    },
+    {
+        "College Name":"Anand International College of Engineering",
+        "Location":"Jaipur",
+        "Category":"EWS",
+        "Percentile":82,
+        "CRL Rank":190000,
+        "Approx. Total Fees(4 years)":"3.2 - 3.6 Lakh",
+        "Hostel Fees":"\u20b960k\u201375k",
+        "Highest Package (Approx. CTC)":"\u20b96\u20139 LPA"
+    },
+    {
+        "College Name":"Anand International College of Engineering",
+        "Location":"Jaipur",
+        "Category":"OBC",
+        "Percentile":80,
+        "CRL Rank":210000,
+        "Approx. Total Fees(4 years)":"3.2 - 3.6 Lakh",
+        "Hostel Fees":"\u20b960k\u201375k",
+        "Highest Package (Approx. CTC)":"\u20b96\u20139 LPA"
+    },
+    {
+        "College Name":"Anand International College of Engineering",
+        "Location":"Jaipur",
+        "Category":"SC",
+        "Percentile":65,
+        "CRL Rank":410000,
+        "Approx. Total Fees(4 years)":"3.2 - 3.6 Lakh",
+        "Hostel Fees":"\u20b960k\u201375k",
+        "Highest Package (Approx. CTC)":"\u20b96\u20139 LPA"
+    },
+    {
+        "College Name":"Anand International College of Engineering",
+        "Location":"Jaipur",
+        "Category":"ST",
+        "Percentile":60,
+        "CRL Rank":480000,
+        "Approx. Total Fees(4 years)":"3.2 - 3.6 Lakh",
+        "Hostel Fees":"\u20b960k\u201375k",
+        "Highest Package (Approx. CTC)":"\u20b96\u20139 LPA"
+    },
+    {
+        "College Name":"Arya College of Engineering and IT",
+        "Location":"Jaipur",
+        "Category":"General",
+        "Percentile":85,
+        "CRL Rank":165000,
+        "Approx. Total Fees(4 years)":"3.0 - 3.5 Lakh",
+        "Hostel Fees":"\u20b960k\u201380k",
+        "Highest Package (Approx. CTC)":"\u20b98\u201310 LPA"
+    },
+    {
+        "College Name":"Arya College of Engineering and IT",
+        "Location":"Jaipur",
+        "Category":"EWS",
+        "Percentile":82,
+        "CRL Rank":190000,
+        "Approx. Total Fees(4 years)":"3.0 - 3.5 Lakh",
+        "Hostel Fees":"\u20b960k\u201380k",
+        "Highest Package (Approx. CTC)":"\u20b98\u201310 LPA"
+    },
+    {
+        "College Name":"Arya College of Engineering and IT",
+        "Location":"Jaipur",
+        "Category":"OBC",
+        "Percentile":80,
+        "CRL Rank":210000,
+        "Approx. Total Fees(4 years)":"3.0 - 3.5 Lakh",
+        "Hostel Fees":"\u20b960k\u201380k",
+        "Highest Package (Approx. CTC)":"\u20b98\u201310 LPA"
+    },
+    {
+        "College Name":"Arya College of Engineering and IT",
+        "Location":"Jaipur",
+        "Category":"SC",
+        "Percentile":65,
+        "CRL Rank":410000,
+        "Approx. Total Fees(4 years)":"3.0 - 3.5 Lakh",
+        "Hostel Fees":"\u20b960k\u201380k",
+        "Highest Package (Approx. CTC)":"\u20b98\u201310 LPA"
+    },
+    {
+        "College Name":"Arya College of Engineering and IT",
+        "Location":"Jaipur",
+        "Category":"ST",
+        "Percentile":60,
+        "CRL Rank":480000,
+        "Approx. Total Fees(4 years)":"3.0 - 3.5 Lakh",
+        "Hostel Fees":"\u20b960k\u201380k",
+        "Highest Package (Approx. CTC)":"\u20b98\u201310 LPA"
+    },
+    {
+        "College Name":"Poornima College of Engineering",
+        "Location":"Jaipur",
+        "Category":"General",
+        "Percentile":83,
+        "CRL Rank":180000,
+        "Approx. Total Fees(4 years)":"3.0 - 3.4 Lakh",
+        "Hostel Fees":"\u20b970k\u201390k",
+        "Highest Package (Approx. CTC)":"\u20b910\u201312 LPA"
+    },
+    {
+        "College Name":"Poornima College of Engineering",
+        "Location":"Jaipur",
+        "Category":"EWS",
+        "Percentile":81,
+        "CRL Rank":200000,
+        "Approx. Total Fees(4 years)":"3.0 - 3.4 Lakh",
+        "Hostel Fees":"\u20b970k\u201390k",
+        "Highest Package (Approx. CTC)":"\u20b910\u201312 LPA"
+    },
+    {
+        "College Name":"Poornima College of Engineering",
+        "Location":"Jaipur",
+        "Category":"OBC",
+        "Percentile":78,
+        "CRL Rank":240000,
+        "Approx. Total Fees(4 years)":"3.0 - 3.4 Lakh",
+        "Hostel Fees":"\u20b970k\u201390k",
+        "Highest Package (Approx. CTC)":"\u20b910\u201312 LPA"
+    },
+    {
+        "College Name":"Poornima College of Engineering",
+        "Location":"Jaipur",
+        "Category":"SC",
+        "Percentile":66,
+        "CRL Rank":390000,
+        "Approx. Total Fees(4 years)":"3.0 - 3.4 Lakh",
+        "Hostel Fees":"\u20b970k\u201390k",
+        "Highest Package (Approx. CTC)":"\u20b910\u201312 LPA"
+    },
+    {
+        "College Name":"Poornima College of Engineering",
+        "Location":"Jaipur",
+        "Category":"ST",
+        "Percentile":60,
+        "CRL Rank":480000,
+        "Approx. Total Fees(4 years)":"3.0 - 3.4 Lakh",
+        "Hostel Fees":"\u20b970k\u201390k",
+        "Highest Package (Approx. CTC)":"\u20b910\u201312 LPA"
+    },
+    {
+        "College Name":"Jaipur Engineering College & Research Centre (JECRC)",
+        "Location":"Jaipur",
+        "Category":"General",
+        "Percentile":86,
+        "CRL Rank":155000,
+        "Approx. Total Fees(4 years)":"3.4 - 3.8 Lakh",
+        "Hostel Fees":"\u20b970k\u201395k",
+        "Highest Package (Approx. CTC)":"\u20b914 LPA"
+    },
+    {
+        "College Name":"JECRC",
+        "Location":"Jaipur",
+        "Category":"EWS",
+        "Percentile":84,
+        "CRL Rank":175000,
+        "Approx. Total Fees(4 years)":"3.4 - 3.8 Lakh",
+        "Hostel Fees":"\u20b970k\u201395k",
+        "Highest Package (Approx. CTC)":"\u20b914 LPA"
+    },
+    {
+        "College Name":"JECRC",
+        "Location":"Jaipur",
+        "Category":"OBC",
+        "Percentile":82,
+        "CRL Rank":190000,
+        "Approx. Total Fees(4 years)":"3.4 - 3.8 Lakh",
+        "Hostel Fees":"\u20b970k\u201395k",
+        "Highest Package (Approx. CTC)":"\u20b914 LPA"
+    },
+    {
+        "College Name":"JECRC",
+        "Location":"Jaipur",
+        "Category":"SC",
+        "Percentile":65,
+        "CRL Rank":410000,
+        "Approx. Total Fees(4 years)":"3.4 - 3.8 Lakh",
+        "Hostel Fees":"\u20b970k\u201395k",
+        "Highest Package (Approx. CTC)":"\u20b914 LPA"
+    },
+    {
+        "College Name":"JECRC",
+        "Location":"Jaipur",
+        "Category":"ST",
+        "Percentile":60,
+        "CRL Rank":480000,
+        "Approx. Total Fees(4 years)":"3.4 - 3.8 Lakh",
+        "Hostel Fees":"\u20b970k\u201395k",
+        "Highest Package (Approx. CTC)":"\u20b914 LPA"
+    },
+    {
+        "College Name":"Swami Keshvanand Institute of Technology (SKIT)",
+        "Location":"Jaipur",
+        "Category":"General",
+        "Percentile":85,
+        "CRL Rank":165000,
+        "Approx. Total Fees(4 years)":"3.2 - 3.6 Lakh",
+        "Hostel Fees":"\u20b965k\u201390k",
+        "Highest Package (Approx. CTC)":"\u20b912 LPA"
+    },
+    {
+        "College Name":"SKIT",
+        "Location":"Jaipur",
+        "Category":"EWS",
+        "Percentile":83,
+        "CRL Rank":180000,
+        "Approx. Total Fees(4 years)":"3.2 - 3.6 Lakh",
+        "Hostel Fees":"\u20b965k\u201390k",
+        "Highest Package (Approx. CTC)":"\u20b912 LPA"
+    },
+    {
+        "College Name":"SKIT",
+        "Location":"Jaipur",
+        "Category":"OBC",
+        "Percentile":80,
+        "CRL Rank":210000,
+        "Approx. Total Fees(4 years)":"3.2 - 3.6 Lakh",
+        "Hostel Fees":"\u20b965k\u201390k",
+        "Highest Package (Approx. CTC)":"\u20b912 LPA"
+    },
+    {
+        "College Name":"SKIT",
+        "Location":"Jaipur",
+        "Category":"SC",
+        "Percentile":66,
+        "CRL Rank":390000,
+        "Approx. Total Fees(4 years)":"3.2 - 3.6 Lakh",
+        "Hostel Fees":"\u20b965k\u201390k",
+        "Highest Package (Approx. CTC)":"\u20b912 LPA"
+    },
+    {
+        "College Name":"SKIT",
+        "Location":"Jaipur",
+        "Category":"ST",
+        "Percentile":60,
+        "CRL Rank":480000,
+        "Approx. Total Fees(4 years)":"3.2 - 3.6 Lakh",
+        "Hostel Fees":"\u20b965k\u201390k",
+        "Highest Package (Approx. CTC)":"\u20b912 LPA"
+    },
+    {
+        "College Name":"Global Institute of Technology",
+        "Location":"Jaipur",
+        "Category":"General",
+        "Percentile":84,
+        "CRL Rank":175000,
+        "Approx. Total Fees(4 years)":"3.0 - 3.4 Lakh",
+        "Hostel Fees":"\u20b965k\u201385k",
+        "Highest Package (Approx. CTC)":"\u20b910 LPA"
+    },
+    {
+        "College Name":"Global Institute of Technology",
+        "Location":"Jaipur",
+        "Category":"EWS",
+        "Percentile":82,
+        "CRL Rank":190000,
+        "Approx. Total Fees(4 years)":"3.0 - 3.4 Lakh",
+        "Hostel Fees":"\u20b965k\u201385k",
+        "Highest Package (Approx. CTC)":"\u20b910 LPA"
+    },
+    {
+        "College Name":"Global Institute of Technology",
+        "Location":"Jaipur",
+        "Category":"OBC",
+        "Percentile":80,
+        "CRL Rank":210000,
+        "Approx. Total Fees(4 years)":"3.0 - 3.4 Lakh",
+        "Hostel Fees":"\u20b965k\u201385k",
+        "Highest Package (Approx. CTC)":"\u20b910 LPA"
+    },
+    {
+        "College Name":"Global Institute of Technology",
+        "Location":"Jaipur",
+        "Category":"SC",
+        "Percentile":66,
+        "CRL Rank":390000,
+        "Approx. Total Fees(4 years)":"3.0 - 3.4 Lakh",
+        "Hostel Fees":"\u20b965k\u201385k",
+        "Highest Package (Approx. CTC)":"\u20b910 LPA"
+    },
+    {
+        "College Name":"Global Institute of Technology",
+        "Location":"Jaipur",
+        "Category":"ST",
+        "Percentile":60,
+        "CRL Rank":480000,
+        "Approx. Total Fees(4 years)":"3.0 - 3.4 Lakh",
+        "Hostel Fees":"\u20b965k\u201385k",
+        "Highest Package (Approx. CTC)":"\u20b910 LPA"
+    },
+    {
+        "College Name":"Vivekananda Institute of Technology",
+        "Location":"Jaipur",
+        "Category":"General",
+        "Percentile":83,
+        "CRL Rank":180000,
+        "Approx. Total Fees(4 years)":"3.0 - 3.2 Lakh",
+        "Hostel Fees":"\u20b965k\u201385k",
+        "Highest Package (Approx. CTC)":"\u20b98\u20139 LPA"
+    },
+    {
+        "College Name":"Vivekananda Institute of Technology",
+        "Location":"Jaipur",
+        "Category":"EWS",
+        "Percentile":81,
+        "CRL Rank":200000,
+        "Approx. Total Fees(4 years)":"3.0 - 3.2 Lakh",
+        "Hostel Fees":"\u20b965k\u201385k",
+        "Highest Package (Approx. CTC)":"\u20b98\u20139 LPA"
+    },
+    {
+        "College Name":"Vivekananda Institute of Technology",
+        "Location":"Jaipur",
+        "Category":"OBC",
+        "Percentile":78,
+        "CRL Rank":240000,
+        "Approx. Total Fees(4 years)":"3.0 - 3.2 Lakh",
+        "Hostel Fees":"\u20b965k\u201385k",
+        "Highest Package (Approx. CTC)":"\u20b98\u20139 LPA"
+    },
+    {
+        "College Name":"Vivekananda Institute of Technology",
+        "Location":"Jaipur",
+        "Category":"SC",
+        "Percentile":65,
+        "CRL Rank":410000,
+        "Approx. Total Fees(4 years)":"3.0 - 3.2 Lakh",
+        "Hostel Fees":"\u20b965k\u201385k",
+        "Highest Package (Approx. CTC)":"\u20b98\u20139 LPA"
+    },
+    {
+        "College Name":"Vivekananda Institute of Technology",
+        "Location":"Jaipur",
+        "Category":"ST",
+        "Percentile":60,
+        "CRL Rank":480000,
+        "Approx. Total Fees(4 years)":"3.0 - 3.2 Lakh",
+        "Hostel Fees":"\u20b965k\u201385k",
+        "Highest Package (Approx. CTC)":"\u20b98\u20139 LPA"
+    },
+    {
+        "College Name":"Rajasthan Institute of Engineering & Technology, Jaipur",
+        "Location":"All Branches",
+        "Category":"General",
+        "Percentile":85,
+        "CRL Rank":165000,
+        "Approx. Total Fees(4 years)":"2.8 Lakh",
+        "Hostel Fees":"\u20b930k\u201350k",
+        "Highest Package (Approx. CTC)":"\u20b914\u201318 LPA"
+    },
+    {
+        "College Name":"RIET, Jaipur",
+        "Location":"All Branches",
+        "Category":"EWS",
+        "Percentile":75,
+        "CRL Rank":275000,
+        "Approx. Total Fees(4 years)":"2.8 Lakh",
+        "Hostel Fees":"\u20b930k\u201350k",
+        "Highest Package (Approx. CTC)":"\u20b914\u201318 LPA"
+    },
+    {
+        "College Name":"RIET, Jaipur",
+        "Location":"All Branches",
+        "Category":"OBC",
+        "Percentile":73,
+        "CRL Rank":297000,
+        "Approx. Total Fees(4 years)":"2.8 Lakh",
+        "Hostel Fees":"\u20b930k\u201350k",
+        "Highest Package (Approx. CTC)":"\u20b914\u201318 LPA"
+    },
+    {
+        "College Name":"RIET, Jaipur",
+        "Location":"All Branches",
+        "Category":"SC",
+        "Percentile":52,
+        "CRL Rank":528000,
+        "Approx. Total Fees(4 years)":"2.8 Lakh",
+        "Hostel Fees":"\u20b930k\u201350k",
+        "Highest Package (Approx. CTC)":"\u20b914\u201318 LPA"
+    },
+    {
+        "College Name":"RIET, Jaipur",
+        "Location":"All Branches",
+        "Category":"ST",
+        "Percentile":37,
+        "CRL Rank":693000,
+        "Approx. Total Fees(4 years)":"2.8 Lakh",
+        "Hostel Fees":"\u20b930k\u201350k",
+        "Highest Package (Approx. CTC)":"\u20b914\u201318 LPA"
+    },
+    {
+        "College Name":"Yagyavalkya Institute of Technology, Jaipur",
+        "Location":"All Branches",
+        "Category":"General",
+        "Percentile":85,
+        "CRL Rank":165000,
+        "Approx. Total Fees(4 years)":"2.6 Lakh",
+        "Hostel Fees":"\u20b935k\u201350k",
+        "Highest Package (Approx. CTC)":"\u20b910\u201312 LPA"
+    },
+    {
+        "College Name":"Yagyavalkya Institute of Technology, Jaipur",
+        "Location":"All Branches",
+        "Category":"EWS",
+        "Percentile":75,
+        "CRL Rank":275000,
+        "Approx. Total Fees(4 years)":"2.6 Lakh",
+        "Hostel Fees":"\u20b935k\u201350k",
+        "Highest Package (Approx. CTC)":"\u20b910\u201312 LPA"
+    },
+    {
+        "College Name":"Yagyavalkya Institute of Technology, Jaipur",
+        "Location":"All Branches",
+        "Category":"OBC",
+        "Percentile":73,
+        "CRL Rank":297000,
+        "Approx. Total Fees(4 years)":"2.6 Lakh",
+        "Hostel Fees":"\u20b935k\u201350k",
+        "Highest Package (Approx. CTC)":"\u20b910\u201312 LPA"
+    },
+    {
+        "College Name":"Yagyavalkya Institute of Technology, Jaipur",
+        "Location":"All Branches",
+        "Category":"SC",
+        "Percentile":52,
+        "CRL Rank":528000,
+        "Approx. Total Fees(4 years)":"2.6 Lakh",
+        "Hostel Fees":"\u20b935k\u201350k",
+        "Highest Package (Approx. CTC)":"\u20b910\u201312 LPA"
+    },
+    {
+        "College Name":"Yagyavalkya Institute of Technology, Jaipur",
+        "Location":"All Branches",
+        "Category":"ST",
+        "Percentile":37,
+        "CRL Rank":693000,
+        "Approx. Total Fees(4 years)":"2.6 Lakh",
+        "Hostel Fees":"\u20b935k\u201350k",
+        "Highest Package (Approx. CTC)":"\u20b910\u201312 LPA"
+    },
+    {
+        "College Name":"SS College of Engineering, Udaipur",
+        "Location":"All Branches",
+        "Category":"General",
+        "Percentile":85,
+        "CRL Rank":165000,
+        "Approx. Total Fees(4 years)":"2.4 Lakh",
+        "Hostel Fees":"\u20b930k\u201340k",
+        "Highest Package (Approx. CTC)":"\u20b96\u20138 LPA"
+    },
+    {
+        "College Name":"SS College of Engineering, Udaipur",
+        "Location":"All Branches",
+        "Category":"EWS",
+        "Percentile":75,
+        "CRL Rank":275000,
+        "Approx. Total Fees(4 years)":"2.4 Lakh",
+        "Hostel Fees":"\u20b930k\u201340k",
+        "Highest Package (Approx. CTC)":"\u20b96\u20138 LPA"
+    },
+    {
+        "College Name":"SS College of Engineering, Udaipur",
+        "Location":"All Branches",
+        "Category":"OBC",
+        "Percentile":73,
+        "CRL Rank":297000,
+        "Approx. Total Fees(4 years)":"2.4 Lakh",
+        "Hostel Fees":"\u20b930k\u201340k",
+        "Highest Package (Approx. CTC)":"\u20b96\u20138 LPA"
+    },
+    {
+        "College Name":"SS College of Engineering, Udaipur",
+        "Location":"All Branches",
+        "Category":"SC",
+        "Percentile":52,
+        "CRL Rank":528000,
+        "Approx. Total Fees(4 years)":"2.4 Lakh",
+        "Hostel Fees":"\u20b930k\u201340k",
+        "Highest Package (Approx. CTC)":"\u20b96\u20138 LPA"
+    },
+    {
+        "College Name":"SS College of Engineering, Udaipur",
+        "Location":"All Branches",
+        "Category":"ST",
+        "Percentile":37,
+        "CRL Rank":693000,
+        "Approx. Total Fees(4 years)":"2.4 Lakh",
+        "Hostel Fees":"\u20b930k\u201340k",
+        "Highest Package (Approx. CTC)":"\u20b96\u20138 LPA"
+    },
+    {
+        "College Name":"BK Birla Institute of Engineering & Technology, Pilani",
+        "Location":"All Branches",
+        "Category":"General",
+        "Percentile":85,
+        "CRL Rank":165000,
+        "Approx. Total Fees(4 years)":"2.4 Lakh",
+        "Hostel Fees":"\u20b930k\u201340k",
+        "Highest Package (Approx. CTC)":"\u20b96\u20138 LPA"
+    },
+    {
+        "College Name":"BK Birla Institute of Engg. & Tech., Pilani",
+        "Location":"All Branches",
+        "Category":"EWS",
+        "Percentile":75,
+        "CRL Rank":275000,
+        "Approx. Total Fees(4 years)":"3.2 - 3.6 Lakh",
+        "Hostel Fees":"\u20b960k\u201375k",
+        "Highest Package (Approx. CTC)":"\u20b96\u20139 LPA"
+    },
+    {
+        "College Name":"BK Birla Institute of Engg. & Tech., Pilani",
+        "Location":"All Branches",
+        "Category":"OBC",
+        "Percentile":73,
+        "CRL Rank":297000,
+        "Approx. Total Fees(4 years)":"3.0 - 3.5 Lakh",
+        "Hostel Fees":"\u20b960k\u201380k",
+        "Highest Package (Approx. CTC)":"\u20b98\u201310 LPA"
+    },
+    {
+        "College Name":"BK Birla Institute of Engg. & Tech., Pilani",
+        "Location":"All Branches",
+        "Category":"SC",
+        "Percentile":52,
+        "CRL Rank":528000,
+        "Approx. Total Fees(4 years)":"2.4 Lakh",
+        "Hostel Fees":"\u20b930k\u201340k",
+        "Highest Package (Approx. CTC)":"\u20b96\u20138 LPA"
+    },
+    {
+        "College Name":"BK Birla Institute of Engg. & Tech., Pilani",
+        "Location":"All Branches",
+        "Category":"ST",
+        "Percentile":37,
+        "CRL Rank":693000,
+        "Approx. Total Fees(4 years)":"3.2 - 3.6 Lakh",
+        "Hostel Fees":"\u20b960k\u201375k",
+        "Highest Package (Approx. CTC)":"\u20b96\u20139 LPA"
+    },
+    {
+        "College Name":"Techno India NJR Institute of Technology, Udaipur",
+        "Location":"All Branches",
+        "Category":"General",
+        "Percentile":85,
+        "CRL Rank":165000,
+        "Approx. Total Fees(4 years)":"3.2 - 3.6 Lakh",
+        "Hostel Fees":"\u20b960k\u201375k",
+        "Highest Package (Approx. CTC)":"\u20b96\u20139 LPA"
+    },
+    {
+        "College Name":"Techno India NJR, Udaipur",
+        "Location":"All Branches",
+        "Category":"EWS",
+        "Percentile":75,
+        "CRL Rank":275000,
+        "Approx. Total Fees(4 years)":"3.2 - 3.6 Lakh",
+        "Hostel Fees":"\u20b960k\u201375k",
+        "Highest Package (Approx. CTC)":"\u20b96\u20139 LPA"
+    },
+    {
+        "College Name":"Techno India NJR, Udaipur",
+        "Location":"All Branches",
+        "Category":"OBC",
+        "Percentile":73,
+        "CRL Rank":297000,
+        "Approx. Total Fees(4 years)":"3.2 - 3.6 Lakh",
+        "Hostel Fees":"\u20b960k\u201375k",
+        "Highest Package (Approx. CTC)":"\u20b96\u20139 LPA"
+    },
+    {
+        "College Name":"Techno India NJR, Udaipur",
+        "Location":"All Branches",
+        "Category":"SC",
+        "Percentile":52,
+        "CRL Rank":528000,
+        "Approx. Total Fees(4 years)":"3.2 - 3.6 Lakh",
+        "Hostel Fees":"\u20b960k\u201375k",
+        "Highest Package (Approx. CTC)":"\u20b96\u20139 LPA"
+    },
+    {
+        "College Name":"Techno India NJR, Udaipur",
+        "Location":"All Branches",
+        "Category":"ST",
+        "Percentile":37,
+        "CRL Rank":693000,
+        "Approx. Total Fees(4 years)":"3.0 - 3.5 Lakh",
+        "Hostel Fees":"\u20b960k\u201380k",
+        "Highest Package (Approx. CTC)":"\u20b98\u201310 LPA"
+    },
+    {
+        "College Name":"Aravali Institute of Technical Studies, Udaipur",
+        "Location":"All Branches",
+        "Category":"General",
+        "Percentile":85,
+        "CRL Rank":165000,
+        "Approx. Total Fees(4 years)":"3.0 - 3.5 Lakh",
+        "Hostel Fees":"\u20b960k\u201380k",
+        "Highest Package (Approx. CTC)":"\u20b98\u201310 LPA"
+    },
+    {
+        "College Name":"Aravali Institute of Technical Studies, Udaipur",
+        "Location":"All Branches",
+        "Category":"EWS",
+        "Percentile":75,
+        "CRL Rank":275000,
+        "Approx. Total Fees(4 years)":"3.0 - 3.5 Lakh",
+        "Hostel Fees":"\u20b960k\u201380k",
+        "Highest Package (Approx. CTC)":"\u20b98\u201310 LPA"
+    },
+    {
+        "College Name":"Aravali Institute of Technical Studies, Udaipur",
+        "Location":"All Branches",
+        "Category":"OBC",
+        "Percentile":73,
+        "CRL Rank":297000,
+        "Approx. Total Fees(4 years)":"3.0 - 3.5 Lakh",
+        "Hostel Fees":"\u20b960k\u201380k",
+        "Highest Package (Approx. CTC)":"\u20b98\u201310 LPA"
+    },
+    {
+        "College Name":"Aravali Institute of Technical Studies, Udaipur",
+        "Location":"All Branches",
+        "Category":"SC",
+        "Percentile":52,
+        "CRL Rank":528000,
+        "Approx. Total Fees(4 years)":"3.0 - 3.5 Lakh",
+        "Hostel Fees":"\u20b960k\u201380k",
+        "Highest Package (Approx. CTC)":"\u20b98\u201310 LPA"
+    },
+    {
+        "College Name":"Aravali Institute of Technical Studies, Udaipur",
+        "Location":"All Branches",
+        "Category":"ST",
+        "Percentile":37,
+        "CRL Rank":693000,
+        "Approx. Total Fees(4 years)":"3.0 - 3.4 Lakh",
+        "Hostel Fees":"\u20b970k\u201390k",
+        "Highest Package (Approx. CTC)":"\u20b910\u201312 LPA"
+    },
+    {
+        "College Name":"Modi Institute of Technology, Kota",
+        "Location":"All Branches",
+        "Category":"General",
+        "Percentile":85,
+        "CRL Rank":165000,
+        "Approx. Total Fees(4 years)":"3.0 - 3.4 Lakh",
+        "Hostel Fees":"\u20b970k\u201390k",
+        "Highest Package (Approx. CTC)":"\u20b910\u201312 LPA"
+    },
+    {
+        "College Name":"Modi Institute of Technology, Kota",
+        "Location":"All Branches",
+        "Category":"EWS",
+        "Percentile":75,
+        "CRL Rank":275000,
+        "Approx. Total Fees(4 years)":"3.0 - 3.4 Lakh",
+        "Hostel Fees":"\u20b970k\u201390k",
+        "Highest Package (Approx. CTC)":"\u20b910\u201312 LPA"
+    },
+    {
+        "College Name":"Modi Institute of Technology, Kota",
+        "Location":"All Branches",
+        "Category":"OBC",
+        "Percentile":73,
+        "CRL Rank":297000,
+        "Approx. Total Fees(4 years)":"3.0 - 3.4 Lakh",
+        "Hostel Fees":"\u20b970k\u201390k",
+        "Highest Package (Approx. CTC)":"\u20b910\u201312 LPA"
+    },
+    {
+        "College Name":"Modi Institute of Technology, Kota",
+        "Location":"All Branches",
+        "Category":"SC",
+        "Percentile":52,
+        "CRL Rank":528000,
+        "Approx. Total Fees(4 years)":"3.0 - 3.4 Lakh",
+        "Hostel Fees":"\u20b970k\u201390k",
+        "Highest Package (Approx. CTC)":"\u20b910\u201312 LPA"
+    },
+    {
+        "College Name":"Modi Institute of Technology, Kota",
+        "Location":"All Branches",
+        "Category":"ST",
+        "Percentile":37,
+        "CRL Rank":693000,
+        "Approx. Total Fees(4 years)":"3.4 - 3.8 Lakh",
+        "Hostel Fees":"\u20b970k\u201395k",
+        "Highest Package (Approx. CTC)":"\u20b914 LPA"
+    },
+    {
+        "College Name":"Shankara Institute of Technology, Jaipur",
+        "Location":"All Branches",
+        "Category":"General",
+        "Percentile":85,
+        "CRL Rank":165000,
+        "Approx. Total Fees(4 years)":"3.4 - 3.8 Lakh",
+        "Hostel Fees":"\u20b970k\u201395k",
+        "Highest Package (Approx. CTC)":"\u20b914 LPA"
+    },
+    {
+        "College Name":"Shankara Institute of Technology, Jaipur",
+        "Location":"All Branches",
+        "Category":"EWS",
+        "Percentile":75,
+        "CRL Rank":275000,
+        "Approx. Total Fees(4 years)":"3.4 - 3.8 Lakh",
+        "Hostel Fees":"\u20b970k\u201395k",
+        "Highest Package (Approx. CTC)":"\u20b914 LPA"
+    },
+    {
+        "College Name":"Shankara Institute of Technology, Jaipur",
+        "Location":"All Branches",
+        "Category":"OBC",
+        "Percentile":73,
+        "CRL Rank":297000,
+        "Approx. Total Fees(4 years)":"3.4 - 3.8 Lakh",
+        "Hostel Fees":"\u20b970k\u201395k",
+        "Highest Package (Approx. CTC)":"\u20b914 LPA"
+    },
+    {
+        "College Name":"Shankara Institute of Technology, Jaipur",
+        "Location":"All Branches",
+        "Category":"SC",
+        "Percentile":52,
+        "CRL Rank":528000,
+        "Approx. Total Fees(4 years)":"3.4 - 3.8 Lakh",
+        "Hostel Fees":"\u20b970k\u201395k",
+        "Highest Package (Approx. CTC)":"\u20b914 LPA"
+    },
+    {
+        "College Name":"Shankara Institute of Technology, Jaipur",
+        "Location":"All Branches",
+        "Category":"ST",
+        "Percentile":37,
+        "CRL Rank":693000,
+        "Approx. Total Fees(4 years)":"3.2 - 3.6 Lakh",
+        "Hostel Fees":"\u20b965k\u201390k",
+        "Highest Package (Approx. CTC)":"\u20b912 LPA"
+    },
+    {
+        "College Name":"Jaipur Engineering College and Research Centre (JECRC)",
+        "Location":"All Branches",
+        "Category":"General",
+        "Percentile":85,
+        "CRL Rank":165000,
+        "Approx. Total Fees(4 years)":"3.2 - 3.6 Lakh",
+        "Hostel Fees":"\u20b965k\u201390k",
+        "Highest Package (Approx. CTC)":"\u20b912 LPA"
+    },
+    {
+        "College Name":"JECRC, Jaipur",
+        "Location":"All Branches",
+        "Category":"EWS",
+        "Percentile":75,
+        "CRL Rank":275000,
+        "Approx. Total Fees(4 years)":"3.2 - 3.6 Lakh",
+        "Hostel Fees":"\u20b965k\u201390k",
+        "Highest Package (Approx. CTC)":"\u20b912 LPA"
+    },
+    {
+        "College Name":"JECRC, Jaipur",
+        "Location":"All Branches",
+        "Category":"OBC",
+        "Percentile":73,
+        "CRL Rank":297000,
+        "Approx. Total Fees(4 years)":"3.2 - 3.6 Lakh",
+        "Hostel Fees":"\u20b965k\u201390k",
+        "Highest Package (Approx. CTC)":"\u20b912 LPA"
+    },
+    {
+        "College Name":"JECRC, Jaipur",
+        "Location":"All Branches",
+        "Category":"SC",
+        "Percentile":52,
+        "CRL Rank":528000,
+        "Approx. Total Fees(4 years)":"3.2 - 3.6 Lakh",
+        "Hostel Fees":"\u20b965k\u201390k",
+        "Highest Package (Approx. CTC)":"\u20b912 LPA"
+    },
+    {
+        "College Name":"JECRC, Jaipur",
+        "Location":"All Branches",
+        "Category":"ST",
+        "Percentile":37,
+        "CRL Rank":693000,
+        "Approx. Total Fees(4 years)":"3.0 - 3.4 Lakh",
+        "Hostel Fees":"\u20b965k\u201385k",
+        "Highest Package (Approx. CTC)":"\u20b910 LPA"
+    },
+    {
+        "College Name":"Arya College of Engineering & Information Technology",
+        "Location":"All Branches",
+        "Category":"General",
+        "Percentile":85,
+        "CRL Rank":165000,
+        "Approx. Total Fees(4 years)":"3.0 - 3.4 Lakh",
+        "Hostel Fees":"\u20b965k\u201385k",
+        "Highest Package (Approx. CTC)":"\u20b910 LPA"
+    },
+    {
+        "College Name":"Arya College of Engg. & IT, Jaipur",
+        "Location":"All Branches",
+        "Category":"EWS",
+        "Percentile":75,
+        "CRL Rank":275000,
+        "Approx. Total Fees(4 years)":"3.0 - 3.4 Lakh",
+        "Hostel Fees":"\u20b965k\u201385k",
+        "Highest Package (Approx. CTC)":"\u20b910 LPA"
+    },
+    {
+        "College Name":"Arya College of Engg. & IT, Jaipur",
+        "Location":"All Branches",
+        "Category":"OBC",
+        "Percentile":73,
+        "CRL Rank":297000,
+        "Approx. Total Fees(4 years)":"3.0 - 3.4 Lakh",
+        "Hostel Fees":"\u20b965k\u201385k",
+        "Highest Package (Approx. CTC)":"\u20b910 LPA"
+    },
+    {
+        "College Name":"Arya College of Engg. & IT, Jaipur",
+        "Location":"All Branches",
+        "Category":"SC",
+        "Percentile":52,
+        "CRL Rank":528000,
+        "Approx. Total Fees(4 years)":"3.0 - 3.4 Lakh",
+        "Hostel Fees":"\u20b965k\u201385k",
+        "Highest Package (Approx. CTC)":"\u20b910 LPA"
+    },
+    {
+        "College Name":"Arya College of Engg. & IT, Jaipur",
+        "Location":"All Branches",
+        "Category":"ST",
+        "Percentile":37,
+        "CRL Rank":693000,
+        "Approx. Total Fees(4 years)":"3.0 - 3.2 Lakh",
+        "Hostel Fees":"\u20b965k\u201385k",
+        "Highest Package (Approx. CTC)":"\u20b98\u20139 LPA"
+    },
+    {
+        "College Name":"Swami Keshvanand Institute of Technology (SKIT), Jaipur",
+        "Location":"All Branches",
+        "Category":"General",
+        "Percentile":85,
+        "CRL Rank":165000,
+        "Approx. Total Fees(4 years)":"3.0 - 3.2 Lakh",
+        "Hostel Fees":"\u20b965k\u201385k",
+        "Highest Package (Approx. CTC)":"\u20b98\u20139 LPA"
+    },
+    {
+        "College Name":"SKIT, Jaipur",
+        "Location":"All Branches",
+        "Category":"EWS",
+        "Percentile":75,
+        "CRL Rank":275000,
+        "Approx. Total Fees(4 years)":"3.0 - 3.2 Lakh",
+        "Hostel Fees":"\u20b965k\u201385k",
+        "Highest Package (Approx. CTC)":"\u20b98\u20139 LPA"
+    },
+    {
+        "College Name":"SKIT, Jaipur",
+        "Location":"All Branches",
+        "Category":"OBC",
+        "Percentile":73,
+        "CRL Rank":297000,
+        "Approx. Total Fees(4 years)":"3.0 - 3.2 Lakh",
+        "Hostel Fees":"\u20b965k\u201385k",
+        "Highest Package (Approx. CTC)":"\u20b98\u20139 LPA"
+    },
+    {
+        "College Name":"SKIT, Jaipur",
+        "Location":"All Branches",
+        "Category":"SC",
+        "Percentile":52,
+        "CRL Rank":528000,
+        "Approx. Total Fees(4 years)":"3.0 - 3.2 Lakh",
+        "Hostel Fees":"\u20b965k\u201385k",
+        "Highest Package (Approx. CTC)":"\u20b98\u20139 LPA"
+    },
+    {
+        "College Name":"SKIT, Jaipur",
+        "Location":"All Branches",
+        "Category":"ST",
+        "Percentile":37,
+        "CRL Rank":693000,
+        "Approx. Total Fees(4 years)":"2.8 Lakh",
+        "Hostel Fees":"\u20b930k\u201350k",
+        "Highest Package (Approx. CTC)":"\u20b914\u201318 LPA"
+    },
+    {
+        "College Name":"Global Institute of Technology (GIT), Jaipur",
+        "Location":"All Branches",
+        "Category":"General",
+        "Percentile":85,
+        "CRL Rank":165000,
+        "Approx. Total Fees(4 years)":"2.8 Lakh",
+        "Hostel Fees":"\u20b930k\u201350k",
+        "Highest Package (Approx. CTC)":"\u20b914\u201318 LPA"
+    },
+    {
+        "College Name":"Global Institute of Technology (GIT), Jaipur",
+        "Location":"All Branches",
+        "Category":"EWS",
+        "Percentile":75,
+        "CRL Rank":275000,
+        "Approx. Total Fees(4 years)":"2.8 Lakh",
+        "Hostel Fees":"\u20b930k\u201350k",
+        "Highest Package (Approx. CTC)":"\u20b914\u201318 LPA"
+    },
+    {
+        "College Name":"Global Institute of Technology (GIT), Jaipur",
+        "Location":"All Branches",
+        "Category":"OBC",
+        "Percentile":73,
+        "CRL Rank":297000,
+        "Approx. Total Fees(4 years)":"2.8 Lakh",
+        "Hostel Fees":"\u20b930k\u201350k",
+        "Highest Package (Approx. CTC)":"\u20b914\u201318 LPA"
+    },
+    {
+        "College Name":"Global Institute of Technology (GIT), Jaipur",
+        "Location":"All Branches",
+        "Category":"SC",
+        "Percentile":52,
+        "CRL Rank":528000,
+        "Approx. Total Fees(4 years)":"2.8 Lakh",
+        "Hostel Fees":"\u20b930k\u201350k",
+        "Highest Package (Approx. CTC)":"\u20b914\u201318 LPA"
+    },
+    {
+        "College Name":"Global Institute of Technology (GIT), Jaipur",
+        "Location":"All Branches",
+        "Category":"ST",
+        "Percentile":37,
+        "CRL Rank":693000,
+        "Approx. Total Fees(4 years)":"2.6 Lakh",
+        "Hostel Fees":"\u20b935k\u201350k",
+        "Highest Package (Approx. CTC)":"\u20b910\u201312 LPA"
+    },
+    {
+        "College Name":"Vivekananda Institute of Technology (VIT), Jaipur",
+        "Location":"All Branches",
+        "Category":"General",
+        "Percentile":85,
+        "CRL Rank":165000,
+        "Approx. Total Fees(4 years)":"2.6 Lakh",
+        "Hostel Fees":"\u20b935k\u201350k",
+        "Highest Package (Approx. CTC)":"\u20b910\u201312 LPA"
+    },
+    {
+        "College Name":"Vivekananda Institute of Technology (VIT), Jaipur",
+        "Location":"All Branches",
+        "Category":"EWS",
+        "Percentile":75,
+        "CRL Rank":275000,
+        "Approx. Total Fees(4 years)":"2.6 Lakh",
+        "Hostel Fees":"\u20b935k\u201350k",
+        "Highest Package (Approx. CTC)":"\u20b910\u201312 LPA"
+    },
+    {
+        "College Name":"Vivekananda Institute of Technology (VIT), Jaipur",
+        "Location":"All Branches",
+        "Category":"OBC",
+        "Percentile":73,
+        "CRL Rank":297000,
+        "Approx. Total Fees(4 years)":"2.6 Lakh",
+        "Hostel Fees":"\u20b935k\u201350k",
+        "Highest Package (Approx. CTC)":"\u20b910\u201312 LPA"
+    },
+    {
+        "College Name":"Vivekananda Institute of Technology (VIT), Jaipur",
+        "Location":"All Branches",
+        "Category":"SC",
+        "Percentile":52,
+        "CRL Rank":528000,
+        "Approx. Total Fees(4 years)":"2.6 Lakh",
+        "Hostel Fees":"\u20b935k\u201350k",
+        "Highest Package (Approx. CTC)":"\u20b910\u201312 LPA"
+    },
+    {
+        "College Name":"Vivekananda Institute of Technology (VIT), Jaipur",
+        "Location":"All Branches",
+        "Category":"ST",
+        "Percentile":37,
+        "CRL Rank":693000,
+        "Approx. Total Fees(4 years)":"2.4 Lakh",
+        "Hostel Fees":"\u20b930k\u201340k",
+        "Highest Package (Approx. CTC)":"\u20b96\u20138 LPA"
+    },
+    {
+        "College Name":"Rajasthan Institute of Engineering & Technology (RIET)",
+        "Location":"All Branches",
+        "Category":"General",
+        "Percentile":85,
+        "CRL Rank":165000,
+        "Approx. Total Fees(4 years)":"2.4 Lakh",
+        "Hostel Fees":"\u20b930k\u201340k",
+        "Highest Package (Approx. CTC)":"\u20b96\u20138 LPA"
+    },
+    {
+        "College Name":"RIET, Jaipur",
+        "Location":"All Branches",
+        "Category":"EWS",
+        "Percentile":75,
+        "CRL Rank":275000,
+        "Approx. Total Fees(4 years)":"2.4 Lakh",
+        "Hostel Fees":"\u20b930k\u201340k",
+        "Highest Package (Approx. CTC)":"\u20b96\u20138 LPA"
+    },
+    {
+        "College Name":"RIET, Jaipur",
+        "Location":"All Branches",
+        "Category":"OBC",
+        "Percentile":73,
+        "CRL Rank":297000,
+        "Approx. Total Fees(4 years)":"2.4 Lakh",
+        "Hostel Fees":"\u20b930k\u201340k",
+        "Highest Package (Approx. CTC)":"\u20b96\u20138 LPA"
+    },
+    {
+        "College Name":"RIET, Jaipur",
+        "Location":"All Branches",
+        "Category":"SC",
+        "Percentile":52,
+        "CRL Rank":528000,
+        "Approx. Total Fees(4 years)":"2.4 Lakh",
+        "Hostel Fees":"\u20b930k\u201340k",
+        "Highest Package (Approx. CTC)":"\u20b96\u20138 LPA"
+    },
+    {
+        "College Name":"RIET, Jaipur",
+        "Location":"All Branches",
+        "Category":"ST",
+        "Percentile":37,
+        "CRL Rank":693000,
+        "Approx. Total Fees(4 years)":"2.4 Lakh",
+        "Hostel Fees":"\u20b930k\u201340k",
+        "Highest Package (Approx. CTC)":"\u20b96\u20138 LPA"
+    },
+    {
+        "College Name":"Anand International College of Engineering, Jaipur",
+        "Location":"All Branches",
+        "Category":"General",
+        "Percentile":85,
+        "CRL Rank":165000,
+        "Approx. Total Fees(4 years)":"3.2 - 3.6 Lakh",
+        "Hostel Fees":"\u20b960k\u201375k",
+        "Highest Package (Approx. CTC)":"\u20b96\u20139 LPA"
+    },
+    {
+        "College Name":"Anand International College of Engineering, Jaipur",
+        "Location":"All Branches",
+        "Category":"EWS",
+        "Percentile":75,
+        "CRL Rank":275000,
+        "Approx. Total Fees(4 years)":"3.0 - 3.5 Lakh",
+        "Hostel Fees":"\u20b960k\u201380k",
+        "Highest Package (Approx. CTC)":"\u20b98\u201310 LPA"
+    },
+    {
+        "College Name":"Anand International College of Engineering, Jaipur",
+        "Location":"All Branches",
+        "Category":"OBC",
+        "Percentile":73,
+        "CRL Rank":297000,
+        "Approx. Total Fees(4 years)":"2.4 Lakh",
+        "Hostel Fees":"\u20b930k\u201340k",
+        "Highest Package (Approx. CTC)":"\u20b96\u20138 LPA"
+    },
+    {
+        "College Name":"Anand International College of Engineering, Jaipur",
+        "Location":"All Branches",
+        "Category":"SC",
+        "Percentile":52,
+        "CRL Rank":528000,
+        "Approx. Total Fees(4 years)":"3.2 - 3.6 Lakh",
+        "Hostel Fees":"\u20b960k\u201375k",
+        "Highest Package (Approx. CTC)":"\u20b96\u20139 LPA"
+    },
+    {
+        "College Name":"Anand International College of Engineering, Jaipur",
+        "Location":"All Branches",
+        "Category":"ST",
+        "Percentile":37,
+        "CRL Rank":693000,
+        "Approx. Total Fees(4 years)":"3.2 - 3.6 Lakh",
+        "Hostel Fees":"\u20b960k\u201375k",
+        "Highest Package (Approx. CTC)":"\u20b96\u20139 LPA"
+    },
+    {
+        "College Name":"University of Engineering and Management (UEM), Jaipur",
+        "Location":"All Branches",
+        "Category":"General",
+        "Percentile":85,
+        "CRL Rank":165000,
+        "Approx. Total Fees(4 years)":"3.2 - 3.6 Lakh",
+        "Hostel Fees":"\u20b960k\u201375k",
+        "Highest Package (Approx. CTC)":"\u20b96\u20139 LPA"
+    },
+    {
+        "College Name":"UEM, Jaipur",
+        "Location":"All Branches",
+        "Category":"EWS",
+        "Percentile":75,
+        "CRL Rank":275000,
+        "Approx. Total Fees(4 years)":"3.2 - 3.6 Lakh",
+        "Hostel Fees":"\u20b960k\u201375k",
+        "Highest Package (Approx. CTC)":"\u20b96\u20139 LPA"
+    },
+    {
+        "College Name":"UEM, Jaipur",
+        "Location":"All Branches",
+        "Category":"OBC",
+        "Percentile":73,
+        "CRL Rank":297000,
+        "Approx. Total Fees(4 years)":"3.2 - 3.6 Lakh",
+        "Hostel Fees":"\u20b960k\u201375k",
+        "Highest Package (Approx. CTC)":"\u20b96\u20139 LPA"
+    },
+    {
+        "College Name":"UEM, Jaipur",
+        "Location":"All Branches",
+        "Category":"SC",
+        "Percentile":52,
+        "CRL Rank":528000,
+        "Approx. Total Fees(4 years)":"3.0 - 3.5 Lakh",
+        "Hostel Fees":"\u20b960k\u201380k",
+        "Highest Package (Approx. CTC)":"\u20b98\u201310 LPA"
+    },
+    {
+        "College Name":"UEM, Jaipur",
+        "Location":"All Branches",
+        "Category":"ST",
+        "Percentile":37,
+        "CRL Rank":693000,
+        "Approx. Total Fees(4 years)":"3.0 - 3.5 Lakh",
+        "Hostel Fees":"\u20b960k\u201380k",
+        "Highest Package (Approx. CTC)":"\u20b98\u201310 LPA"
+    },
+    {
+        "College Name":"Yagyavalkya Institute of Technology (YIT), Jaipur",
+        "Location":"All Branches",
+        "Category":"General",
+        "Percentile":85,
+        "CRL Rank":165000,
+        "Approx. Total Fees(4 years)":"3.0 - 3.5 Lakh",
+        "Hostel Fees":"\u20b960k\u201380k",
+        "Highest Package (Approx. CTC)":"\u20b98\u201310 LPA"
+    },
+    {
+        "College Name":"YIT, Jaipur",
+        "Location":"All Branches",
+        "Category":"EWS",
+        "Percentile":75,
+        "CRL Rank":275000,
+        "Approx. Total Fees(4 years)":"3.0 - 3.5 Lakh",
+        "Hostel Fees":"\u20b960k\u201380k",
+        "Highest Package (Approx. CTC)":"\u20b98\u201310 LPA"
+    },
+    {
+        "College Name":"YIT, Jaipur",
+        "Location":"All Branches",
+        "Category":"OBC",
+        "Percentile":73,
+        "CRL Rank":297000,
+        "Approx. Total Fees(4 years)":"3.0 - 3.5 Lakh",
+        "Hostel Fees":"\u20b960k\u201380k",
+        "Highest Package (Approx. CTC)":"\u20b98\u201310 LPA"
+    },
+    {
+        "College Name":"YIT, Jaipur",
+        "Location":"All Branches",
+        "Category":"SC",
+        "Percentile":52,
+        "CRL Rank":528000,
+        "Approx. Total Fees(4 years)":"3.0 - 3.4 Lakh",
+        "Hostel Fees":"\u20b970k\u201390k",
+        "Highest Package (Approx. CTC)":"\u20b910\u201312 LPA"
+    },
+    {
+        "College Name":"YIT, Jaipur",
+        "Location":"All Branches",
+        "Category":"ST",
+        "Percentile":37,
+        "CRL Rank":693000,
+        "Approx. Total Fees(4 years)":"3.0 - 3.4 Lakh",
+        "Hostel Fees":"\u20b970k\u201390k",
+        "Highest Package (Approx. CTC)":"\u20b910\u201312 LPA"
+    },
+    {
+        "College Name":"Arya Institute of Engineering and Technology, Jaipur",
+        "Location":"All Branches",
+        "Category":"General",
+        "Percentile":85,
+        "CRL Rank":165000,
+        "Approx. Total Fees(4 years)":"3.0 - 3.4 Lakh",
+        "Hostel Fees":"\u20b970k\u201390k",
+        "Highest Package (Approx. CTC)":"\u20b910\u201312 LPA"
+    },
+    {
+        "College Name":"Arya Institute of Engineering & Technology, Jaipur",
+        "Location":"All Branches",
+        "Category":"EWS",
+        "Percentile":75,
+        "CRL Rank":275000,
+        "Approx. Total Fees(4 years)":"3.0 - 3.4 Lakh",
+        "Hostel Fees":"\u20b970k\u201390k",
+        "Highest Package (Approx. CTC)":"\u20b910\u201312 LPA"
+    },
+    {
+        "College Name":"Arya Institute of Engineering & Technology, Jaipur",
+        "Location":"All Branches",
+        "Category":"OBC",
+        "Percentile":73,
+        "CRL Rank":297000,
+        "Approx. Total Fees(4 years)":"3.0 - 3.4 Lakh",
+        "Hostel Fees":"\u20b970k\u201390k",
+        "Highest Package (Approx. CTC)":"\u20b910\u201312 LPA"
+    },
+    {
+        "College Name":"Arya Institute of Engineering & Technology, Jaipur",
+        "Location":"All Branches",
+        "Category":"SC",
+        "Percentile":52,
+        "CRL Rank":528000,
+        "Approx. Total Fees(4 years)":"3.4 - 3.8 Lakh",
+        "Hostel Fees":"\u20b970k\u201395k",
+        "Highest Package (Approx. CTC)":"\u20b914 LPA"
+    },
+    {
+        "College Name":"Arya Institute of Engineering & Technology, Jaipur",
+        "Location":"All Branches",
+        "Category":"ST",
+        "Percentile":37,
+        "CRL Rank":693000,
+        "Approx. Total Fees(4 years)":"3.4 - 3.8 Lakh",
+        "Hostel Fees":"\u20b970k\u201395k",
+        "Highest Package (Approx. CTC)":"\u20b914 LPA"
+    },
+    {
+        "College Name":"Arya Institute of Engineering Tech. & Management, Jaipur",
+        "Location":"All Branches",
+        "Category":"General",
+        "Percentile":85,
+        "CRL Rank":165000,
+        "Approx. Total Fees(4 years)":"3.4 - 3.8 Lakh",
+        "Hostel Fees":"\u20b970k\u201395k",
+        "Highest Package (Approx. CTC)":"\u20b914 LPA"
+    },
+    {
+        "College Name":"Arya Inst. of Engg. Tech. & Mgmt., Jaipur",
+        "Location":"All Branches",
+        "Category":"EWS",
+        "Percentile":75,
+        "CRL Rank":275000,
+        "Approx. Total Fees(4 years)":"3.4 - 3.8 Lakh",
+        "Hostel Fees":"\u20b970k\u201395k",
+        "Highest Package (Approx. CTC)":"\u20b914 LPA"
+    },
+    {
+        "College Name":"Arya Inst. of Engg. Tech. & Mgmt., Jaipur",
+        "Location":"All Branches",
+        "Category":"OBC",
+        "Percentile":73,
+        "CRL Rank":297000,
+        "Approx. Total Fees(4 years)":"3.4 - 3.8 Lakh",
+        "Hostel Fees":"\u20b970k\u201395k",
+        "Highest Package (Approx. CTC)":"\u20b914 LPA"
+    },
+    {
+        "College Name":"Arya Inst. of Engg. Tech. & Mgmt., Jaipur",
+        "Location":"All Branches",
+        "Category":"SC",
+        "Percentile":52,
+        "CRL Rank":528000,
+        "Approx. Total Fees(4 years)":"3.2 - 3.6 Lakh",
+        "Hostel Fees":"\u20b965k\u201390k",
+        "Highest Package (Approx. CTC)":"\u20b912 LPA"
+    },
+    {
+        "College Name":"Arya Inst. of Engg. Tech. & Mgmt., Jaipur",
+        "Location":"All Branches",
+        "Category":"ST",
+        "Percentile":37,
+        "CRL Rank":693000,
+        "Approx. Total Fees(4 years)":"3.2 - 3.6 Lakh",
+        "Hostel Fees":"\u20b965k\u201390k",
+        "Highest Package (Approx. CTC)":"\u20b912 LPA"
+    },
+    {
+        "College Name":"Aryabhatta College of Engineering & Research Center, Ajmer",
+        "Location":"All Branches",
+        "Category":"General",
+        "Percentile":85,
+        "CRL Rank":165000,
+        "Approx. Total Fees(4 years)":"3.2 - 3.6 Lakh",
+        "Hostel Fees":"\u20b965k\u201390k",
+        "Highest Package (Approx. CTC)":"\u20b912 LPA"
+    },
+    {
+        "College Name":"Aryabhatta College, Ajmer",
+        "Location":"All Branches",
+        "Category":"EWS",
+        "Percentile":75,
+        "CRL Rank":275000,
+        "Approx. Total Fees(4 years)":"3.2 - 3.6 Lakh",
+        "Hostel Fees":"\u20b965k\u201390k",
+        "Highest Package (Approx. CTC)":"\u20b912 LPA"
+    },
+    {
+        "College Name":"Aryabhatta College, Ajmer",
+        "Location":"All Branches",
+        "Category":"OBC",
+        "Percentile":73,
+        "CRL Rank":297000,
+        "Approx. Total Fees(4 years)":"3.2 - 3.6 Lakh",
+        "Hostel Fees":"\u20b965k\u201390k",
+        "Highest Package (Approx. CTC)":"\u20b912 LPA"
+    },
+    {
+        "College Name":"Aryabhatta College, Ajmer",
+        "Location":"All Branches",
+        "Category":"SC",
+        "Percentile":52,
+        "CRL Rank":528000,
+        "Approx. Total Fees(4 years)":"3.0 - 3.4 Lakh",
+        "Hostel Fees":"\u20b965k\u201385k",
+        "Highest Package (Approx. CTC)":"\u20b910 LPA"
+    },
+    {
+        "College Name":"Aryabhatta College, Ajmer",
+        "Location":"All Branches",
+        "Category":"ST",
+        "Percentile":37,
+        "CRL Rank":693000,
+        "Approx. Total Fees(4 years)":"3.0 - 3.4 Lakh",
+        "Hostel Fees":"\u20b965k\u201385k",
+        "Highest Package (Approx. CTC)":"\u20b910 LPA"
+    },
+    {
+        "College Name":"B K Birla Institute of Engineering & Technology, Pilani",
+        "Location":"All Branches",
+        "Category":"General",
+        "Percentile":85,
+        "CRL Rank":165000,
+        "Approx. Total Fees(4 years)":"3.0 - 3.4 Lakh",
+        "Hostel Fees":"\u20b965k\u201385k",
+        "Highest Package (Approx. CTC)":"\u20b910 LPA"
+    },
+    {
+        "College Name":"B K Birla Inst. of Engg. & Tech., Pilani",
+        "Location":"All Branches",
+        "Category":"EWS",
+        "Percentile":75,
+        "CRL Rank":275000,
+        "Approx. Total Fees(4 years)":"3.0 - 3.4 Lakh",
+        "Hostel Fees":"\u20b965k\u201385k",
+        "Highest Package (Approx. CTC)":"\u20b910 LPA"
+    },
+    {
+        "College Name":"B K Birla Inst. of Engg. & Tech., Pilani",
+        "Location":"All Branches",
+        "Category":"OBC",
+        "Percentile":73,
+        "CRL Rank":297000,
+        "Approx. Total Fees(4 years)":"3.0 - 3.4 Lakh",
+        "Hostel Fees":"\u20b965k\u201385k",
+        "Highest Package (Approx. CTC)":"\u20b910 LPA"
+    },
+    {
+        "College Name":"B K Birla Inst. of Engg. & Tech., Pilani",
+        "Location":"All Branches",
+        "Category":"SC",
+        "Percentile":52,
+        "CRL Rank":528000,
+        "Approx. Total Fees(4 years)":"3.0 - 3.2 Lakh",
+        "Hostel Fees":"\u20b965k\u201385k",
+        "Highest Package (Approx. CTC)":"\u20b98\u20139 LPA"
+    },
+    {
+        "College Name":"B K Birla Inst. of Engg. & Tech., Pilani",
+        "Location":"All Branches",
+        "Category":"ST",
+        "Percentile":37,
+        "CRL Rank":693000,
+        "Approx. Total Fees(4 years)":"3.0 - 3.2 Lakh",
+        "Hostel Fees":"\u20b965k\u201385k",
+        "Highest Package (Approx. CTC)":"\u20b98\u20139 LPA"
+    },
+    {
+        "College Name":"Aravali Institute of Technical Studies, Udaipur",
+        "Location":"All Branches",
+        "Category":"General",
+        "Percentile":85,
+        "CRL Rank":165000,
+        "Approx. Total Fees(4 years)":"3.0 - 3.2 Lakh",
+        "Hostel Fees":"\u20b965k\u201385k",
+        "Highest Package (Approx. CTC)":"\u20b98\u20139 LPA"
+    },
+    {
+        "College Name":"Aravali Inst. of Technical Studies, Udaipur",
+        "Location":"All Branches",
+        "Category":"EWS",
+        "Percentile":75,
+        "CRL Rank":275000,
+        "Approx. Total Fees(4 years)":"3.0 - 3.2 Lakh",
+        "Hostel Fees":"\u20b965k\u201385k",
+        "Highest Package (Approx. CTC)":"\u20b98\u20139 LPA"
+    },
+    {
+        "College Name":"Aravali Inst. of Technical Studies, Udaipur",
+        "Location":"All Branches",
+        "Category":"OBC",
+        "Percentile":73,
+        "CRL Rank":297000,
+        "Approx. Total Fees(4 years)":"3.0 - 3.2 Lakh",
+        "Hostel Fees":"\u20b965k\u201385k",
+        "Highest Package (Approx. CTC)":"\u20b98\u20139 LPA"
+    },
+    {
+        "College Name":"Aravali Inst. of Technical Studies, Udaipur",
+        "Location":"All Branches",
+        "Category":"SC",
+        "Percentile":52,
+        "CRL Rank":528000,
+        "Approx. Total Fees(4 years)":"2.8 Lakh",
+        "Hostel Fees":"\u20b930k\u201350k",
+        "Highest Package (Approx. CTC)":"\u20b914\u201318 LPA"
+    },
+    {
+        "College Name":"Aravali Inst. of Technical Studies, Udaipur",
+        "Location":"All Branches",
+        "Category":"ST",
+        "Percentile":37,
+        "CRL Rank":693000,
+        "Approx. Total Fees(4 years)":"2.8 Lakh",
+        "Hostel Fees":"\u20b930k\u201350k",
+        "Highest Package (Approx. CTC)":"\u20b914\u201318 LPA"
+    },
+    {
+        "College Name":"Techno India NJR Institute of Technology, Udaipur",
+        "Location":"All Branches",
+        "Category":"General",
+        "Percentile":85,
+        "CRL Rank":165000,
+        "Approx. Total Fees(4 years)":"2.8 Lakh",
+        "Hostel Fees":"\u20b930k\u201350k",
+        "Highest Package (Approx. CTC)":"\u20b914\u201318 LPA"
+    },
+    {
+        "College Name":"Techno India NJR, Udaipur",
+        "Location":"All Branches",
+        "Category":"EWS",
+        "Percentile":75,
+        "CRL Rank":275000,
+        "Approx. Total Fees(4 years)":"2.8 Lakh",
+        "Hostel Fees":"\u20b930k\u201350k",
+        "Highest Package (Approx. CTC)":"\u20b914\u201318 LPA"
+    },
+    {
+        "College Name":"Techno India NJR, Udaipur",
+        "Location":"All Branches",
+        "Category":"OBC",
+        "Percentile":73,
+        "CRL Rank":297000,
+        "Approx. Total Fees(4 years)":"2.8 Lakh",
+        "Hostel Fees":"\u20b930k\u201350k",
+        "Highest Package (Approx. CTC)":"\u20b914\u201318 LPA"
+    },
+    {
+        "College Name":"Techno India NJR, Udaipur",
+        "Location":"All Branches",
+        "Category":"SC",
+        "Percentile":52,
+        "CRL Rank":528000,
+        "Approx. Total Fees(4 years)":"2.6 Lakh",
+        "Hostel Fees":"\u20b935k\u201350k",
+        "Highest Package (Approx. CTC)":"\u20b910\u201312 LPA"
+    },
+    {
+        "College Name":"Techno India NJR, Udaipur",
+        "Location":"All Branches",
+        "Category":"ST",
+        "Percentile":37,
+        "CRL Rank":693000,
+        "Approx. Total Fees(4 years)":"2.6 Lakh",
+        "Hostel Fees":"\u20b935k\u201350k",
+        "Highest Package (Approx. CTC)":"\u20b910\u201312 LPA"
+    },
+    {
+        "College Name":"SS College of Engineering, Udaipur",
+        "Location":"All Branches",
+        "Category":"General",
+        "Percentile":85,
+        "CRL Rank":165000,
+        "Approx. Total Fees(4 years)":"2.6 Lakh",
+        "Hostel Fees":"\u20b935k\u201350k",
+        "Highest Package (Approx. CTC)":"\u20b910\u201312 LPA"
+    },
+    {
+        "College Name":"SS College of Engineering, Udaipur",
+        "Location":"All Branches",
+        "Category":"EWS",
+        "Percentile":75,
+        "CRL Rank":275000,
+        "Approx. Total Fees(4 years)":"2.6 Lakh",
+        "Hostel Fees":"\u20b935k\u201350k",
+        "Highest Package (Approx. CTC)":"\u20b910\u201312 LPA"
+    },
+    {
+        "College Name":"SS College of Engineering, Udaipur",
+        "Location":"All Branches",
+        "Category":"OBC",
+        "Percentile":73,
+        "CRL Rank":297000,
+        "Approx. Total Fees(4 years)":"2.6 Lakh",
+        "Hostel Fees":"\u20b935k\u201350k",
+        "Highest Package (Approx. CTC)":"\u20b910\u201312 LPA"
+    },
+    {
+        "College Name":"SS College of Engineering, Udaipur",
+        "Location":"All Branches",
+        "Category":"SC",
+        "Percentile":52,
+        "CRL Rank":528000,
+        "Approx. Total Fees(4 years)":"2.4 Lakh",
+        "Hostel Fees":"\u20b930k\u201340k",
+        "Highest Package (Approx. CTC)":"\u20b96\u20138 LPA"
+    },
+    {
+        "College Name":"SS College of Engineering, Udaipur",
+        "Location":"All Branches",
+        "Category":"ST",
+        "Percentile":37,
+        "CRL Rank":693000,
+        "Approx. Total Fees(4 years)":"2.4 Lakh",
+        "Hostel Fees":"\u20b930k\u201340k",
+        "Highest Package (Approx. CTC)":"\u20b96\u20138 LPA"
+    },
+    {
+        "College Name":"Modi Institute of Technology, Kota",
+        "Location":"All Branches",
+        "Category":"General",
+        "Percentile":85,
+        "CRL Rank":165000,
+        "Approx. Total Fees(4 years)":"2.4 Lakh",
+        "Hostel Fees":"\u20b930k\u201340k",
+        "Highest Package (Approx. CTC)":"\u20b96\u20138 LPA"
+    },
+    {
+        "College Name":"Modi Institute of Technology, Kota",
+        "Location":"All Branches",
+        "Category":"EWS",
+        "Percentile":75,
+        "CRL Rank":275000,
+        "Approx. Total Fees(4 years)":"2.4 Lakh",
+        "Hostel Fees":"\u20b930k\u201340k",
+        "Highest Package (Approx. CTC)":"\u20b96\u20138 LPA"
+    },
+    {
+        "College Name":"Modi Institute of Technology, Kota",
+        "Location":"All Branches",
+        "Category":"OBC",
+        "Percentile":73,
+        "CRL Rank":297000,
+        "Approx. Total Fees(4 years)":"2.4 Lakh",
+        "Hostel Fees":"\u20b930k\u201340k",
+        "Highest Package (Approx. CTC)":"\u20b96\u20138 LPA"
+    },
+    {
+        "College Name":"Modi Institute of Technology, Kota",
+        "Location":"All Branches",
+        "Category":"SC",
+        "Percentile":52,
+        "CRL Rank":528000,
+        "Approx. Total Fees(4 years)":"2.4 Lakh",
+        "Hostel Fees":"\u20b930k\u201340k",
+        "Highest Package (Approx. CTC)":"\u20b96\u20138 LPA"
+    },
+    {
+        "College Name":"Modi Institute of Technology, Kota",
+        "Location":"All Branches",
+        "Category":"ST",
+        "Percentile":37,
+        "CRL Rank":693000,
+        "Approx. Total Fees(4 years)":"3.2 - 3.6 Lakh",
+        "Hostel Fees":"\u20b960k\u201375k",
+        "Highest Package (Approx. CTC)":"\u20b96\u20139 LPA"
+    },
+    {
+        "College Name":"Shankara Institute of Technology, Jaipur",
+        "Location":"All Branches",
+        "Category":"General",
+        "Percentile":85,
+        "CRL Rank":165000,
+        "Approx. Total Fees(4 years)":"3.0 - 3.5 Lakh",
+        "Hostel Fees":"\u20b960k\u201380k",
+        "Highest Package (Approx. CTC)":"\u20b98\u201310 LPA"
+    },
+    {
+        "College Name":"Shankara Institute of Technology, Jaipur",
+        "Location":"All Branches",
+        "Category":"EWS",
+        "Percentile":75,
+        "CRL Rank":275000,
+        "Approx. Total Fees(4 years)":"2.4 Lakh",
+        "Hostel Fees":"\u20b930k\u201340k",
+        "Highest Package (Approx. CTC)":"\u20b96\u20138 LPA"
+    },
+    {
+        "College Name":"Shankara Institute of Technology, Jaipur",
+        "Location":"All Branches",
+        "Category":"OBC",
+        "Percentile":73,
+        "CRL Rank":297000,
+        "Approx. Total Fees(4 years)":"3.2 - 3.6 Lakh",
+        "Hostel Fees":"\u20b960k\u201375k",
+        "Highest Package (Approx. CTC)":"\u20b96\u20139 LPA"
+    },
+    {
+        "College Name":"Shankara Institute of Technology, Jaipur",
+        "Location":"All Branches",
+        "Category":"SC",
+        "Percentile":52,
+        "CRL Rank":528000,
+        "Approx. Total Fees(4 years)":"3.2 - 3.6 Lakh",
+        "Hostel Fees":"\u20b960k\u201375k",
+        "Highest Package (Approx. CTC)":"\u20b96\u20139 LPA"
+    },
+    {
+        "College Name":"Shankara Institute of Technology, Jaipur",
+        "Location":"All Branches",
+        "Category":"ST",
+        "Percentile":37,
+        "CRL Rank":693000,
+        "Approx. Total Fees(4 years)":"3.2 - 3.6 Lakh",
+        "Hostel Fees":"\u20b960k\u201375k",
+        "Highest Package (Approx. CTC)":"\u20b96\u20139 LPA"
+    },
+    {
+        "College Name":"Gurukul Institute of Engineering and Technology, Kota",
+        "Location":"All Branches",
+        "Category":"General",
+        "Percentile":85,
+        "CRL Rank":165000,
+        "Approx. Total Fees(4 years)":"3.2 - 3.6 Lakh",
+        "Hostel Fees":"\u20b960k\u201375k",
+        "Highest Package (Approx. CTC)":"\u20b96\u20139 LPA"
+    },
+    {
+        "College Name":"Gurukul Institute of Engineering and Technology, Kota",
+        "Location":"All Branches",
+        "Category":"EWS",
+        "Percentile":75,
+        "CRL Rank":275000,
+        "Approx. Total Fees(4 years)":"3.2 - 3.6 Lakh",
+        "Hostel Fees":"\u20b960k\u201375k",
+        "Highest Package (Approx. CTC)":"\u20b96\u20139 LPA"
+    },
+    {
+        "College Name":"Gurukul Institute of Engineering and Technology, Kota",
+        "Location":"All Branches",
+        "Category":"OBC",
+        "Percentile":73,
+        "CRL Rank":297000,
+        "Approx. Total Fees(4 years)":"3.0 - 3.5 Lakh",
+        "Hostel Fees":"\u20b960k\u201380k",
+        "Highest Package (Approx. CTC)":"\u20b98\u201310 LPA"
+    },
+    {
+        "College Name":"Gurukul Institute of Engineering and Technology, Kota",
+        "Location":"All Branches",
+        "Category":"SC",
+        "Percentile":52,
+        "CRL Rank":528000,
+        "Approx. Total Fees(4 years)":"3.0 - 3.5 Lakh",
+        "Hostel Fees":"\u20b960k\u201380k",
+        "Highest Package (Approx. CTC)":"\u20b98\u201310 LPA"
+    },
+    {
+        "College Name":"Gurukul Institute of Engineering and Technology, Kota",
+        "Location":"All Branches",
+        "Category":"ST",
+        "Percentile":37,
+        "CRL Rank":693000,
+        "Approx. Total Fees(4 years)":"3.0 - 3.5 Lakh",
+        "Hostel Fees":"\u20b960k\u201380k",
+        "Highest Package (Approx. CTC)":"\u20b98\u201310 LPA"
+    },
+    {
+        "College Name":"Dr. Radhakrishnan Institute of Technology, Jaipur",
+        "Location":"All Branches",
+        "Category":"General",
+        "Percentile":85,
+        "CRL Rank":165000,
+        "Approx. Total Fees(4 years)":"3.0 - 3.5 Lakh",
+        "Hostel Fees":"\u20b960k\u201380k",
+        "Highest Package (Approx. CTC)":"\u20b98\u201310 LPA"
+    },
+    {
+        "College Name":"Dr. Radhakrishnan Institute of Technology, Jaipur",
+        "Location":"All Branches",
+        "Category":"EWS",
+        "Percentile":75,
+        "CRL Rank":275000,
+        "Approx. Total Fees(4 years)":"3.0 - 3.5 Lakh",
+        "Hostel Fees":"\u20b960k\u201380k",
+        "Highest Package (Approx. CTC)":"\u20b98\u201310 LPA"
+    },
+    {
+        "College Name":"Dr. Radhakrishnan Institute of Technology, Jaipur",
+        "Location":"All Branches",
+        "Category":"OBC",
+        "Percentile":73,
+        "CRL Rank":297000,
+        "Approx. Total Fees(4 years)":"3.0 - 3.4 Lakh",
+        "Hostel Fees":"\u20b970k\u201390k",
+        "Highest Package (Approx. CTC)":"\u20b910\u201312 LPA"
+    },
+    {
+        "College Name":"Dr. Radhakrishnan Institute of Technology, Jaipur",
+        "Location":"All Branches",
+        "Category":"SC",
+        "Percentile":52,
+        "CRL Rank":528000,
+        "Approx. Total Fees(4 years)":"3.0 - 3.4 Lakh",
+        "Hostel Fees":"\u20b970k\u201390k",
+        "Highest Package (Approx. CTC)":"\u20b910\u201312 LPA"
+    },
+    {
+        "College Name":"Dr. Radhakrishnan Institute of Technology, Jaipur",
+        "Location":"All Branches",
+        "Category":"ST",
+        "Percentile":37,
+        "CRL Rank":693000,
+        "Approx. Total Fees(4 years)":"3.0 - 3.4 Lakh",
+        "Hostel Fees":"\u20b970k\u201390k",
+        "Highest Package (Approx. CTC)":"\u20b910\u201312 LPA"
+    },
+    {
+        "College Name":"Geetanjali Institute of Technical Studies, Udaipur",
+        "Location":"All Branches",
+        "Category":"General",
+        "Percentile":85,
+        "CRL Rank":165000,
+        "Approx. Total Fees(4 years)":"3.0 - 3.4 Lakh",
+        "Hostel Fees":"\u20b970k\u201390k",
+        "Highest Package (Approx. CTC)":"\u20b910\u201312 LPA"
+    },
+    {
+        "College Name":"Geetanjali Institute of Technical Studies, Udaipur",
+        "Location":"All Branches",
+        "Category":"EWS",
+        "Percentile":75,
+        "CRL Rank":275000,
+        "Approx. Total Fees(4 years)":"3.0 - 3.4 Lakh",
+        "Hostel Fees":"\u20b970k\u201390k",
+        "Highest Package (Approx. CTC)":"\u20b910\u201312 LPA"
+    },
+    {
+        "College Name":"Geetanjali Institute of Technical Studies, Udaipur",
+        "Location":"All Branches",
+        "Category":"OBC",
+        "Percentile":73,
+        "CRL Rank":297000,
+        "Approx. Total Fees(4 years)":"3.4 - 3.8 Lakh",
+        "Hostel Fees":"\u20b970k\u201395k",
+        "Highest Package (Approx. CTC)":"\u20b914 LPA"
+    },
+    {
+        "College Name":"Geetanjali Institute of Technical Studies, Udaipur",
+        "Location":"All Branches",
+        "Category":"SC",
+        "Percentile":52,
+        "CRL Rank":528000,
+        "Approx. Total Fees(4 years)":"3.4 - 3.8 Lakh",
+        "Hostel Fees":"\u20b970k\u201395k",
+        "Highest Package (Approx. CTC)":"\u20b914 LPA"
+    },
+    {
+        "College Name":"Geetanjali Institute of Technical Studies, Udaipur",
+        "Location":"All Branches",
+        "Category":"ST",
+        "Percentile":37,
+        "CRL Rank":693000,
+        "Approx. Total Fees(4 years)":"3.4 - 3.8 Lakh",
+        "Hostel Fees":"\u20b970k\u201395k",
+        "Highest Package (Approx. CTC)":"\u20b914 LPA"
+    },
+    {
+        "College Name":"Raj Engineering College, Jodhpur",
+        "Location":"All Branches",
+        "Category":"General",
+        "Percentile":85,
+        "CRL Rank":165000,
+        "Approx. Total Fees(4 years)":"3.4 - 3.8 Lakh",
+        "Hostel Fees":"\u20b970k\u201395k",
+        "Highest Package (Approx. CTC)":"\u20b914 LPA"
+    },
+    {
+        "College Name":"Raj Engineering College, Jodhpur",
+        "Location":"All Branches",
+        "Category":"EWS",
+        "Percentile":75,
+        "CRL Rank":275000,
+        "Approx. Total Fees(4 years)":"3.4 - 3.8 Lakh",
+        "Hostel Fees":"\u20b970k\u201395k",
+        "Highest Package (Approx. CTC)":"\u20b914 LPA"
+    },
+    {
+        "College Name":"Raj Engineering College, Jodhpur",
+        "Location":"All Branches",
+        "Category":"OBC",
+        "Percentile":73,
+        "CRL Rank":297000,
+        "Approx. Total Fees(4 years)":"3.2 - 3.6 Lakh",
+        "Hostel Fees":"\u20b965k\u201390k",
+        "Highest Package (Approx. CTC)":"\u20b912 LPA"
+    },
+    {
+        "College Name":"Raj Engineering College, Jodhpur",
+        "Location":"All Branches",
+        "Category":"SC",
+        "Percentile":52,
+        "CRL Rank":528000,
+        "Approx. Total Fees(4 years)":"3.2 - 3.6 Lakh",
+        "Hostel Fees":"\u20b965k\u201390k",
+        "Highest Package (Approx. CTC)":"\u20b912 LPA"
+    },
+    {
+        "College Name":"Raj Engineering College, Jodhpur",
+        "Location":"All Branches",
+        "Category":"ST",
+        "Percentile":37,
+        "CRL Rank":693000,
+        "Approx. Total Fees(4 years)":"3.2 - 3.6 Lakh",
+        "Hostel Fees":"\u20b965k\u201390k",
+        "Highest Package (Approx. CTC)":"\u20b912 LPA"
+    },
+    {
+        "College Name":"Rajasthan College of Engineering for Women, Jaipur",
+        "Location":"All Branches",
+        "Category":"General",
+        "Percentile":85,
+        "CRL Rank":165000,
+        "Approx. Total Fees(4 years)":"3.2 - 3.6 Lakh",
+        "Hostel Fees":"\u20b965k\u201390k",
+        "Highest Package (Approx. CTC)":"\u20b912 LPA"
+    },
+    {
+        "College Name":"Rajasthan College of Engineering for Women, Jaipur",
+        "Location":"All Branches",
+        "Category":"EWS",
+        "Percentile":75,
+        "CRL Rank":275000,
+        "Approx. Total Fees(4 years)":"3.2 - 3.6 Lakh",
+        "Hostel Fees":"\u20b965k\u201390k",
+        "Highest Package (Approx. CTC)":"\u20b912 LPA"
+    },
+    {
+        "College Name":"Rajasthan College of Engineering for Women, Jaipur",
+        "Location":"All Branches",
+        "Category":"OBC",
+        "Percentile":73,
+        "CRL Rank":297000,
+        "Approx. Total Fees(4 years)":"3.0 - 3.4 Lakh",
+        "Hostel Fees":"\u20b965k\u201385k",
+        "Highest Package (Approx. CTC)":"\u20b910 LPA"
+    },
+    {
+        "College Name":"Rajasthan College of Engineering for Women, Jaipur",
+        "Location":"All Branches",
+        "Category":"SC",
+        "Percentile":52,
+        "CRL Rank":528000,
+        "Approx. Total Fees(4 years)":"3.0 - 3.4 Lakh",
+        "Hostel Fees":"\u20b965k\u201385k",
+        "Highest Package (Approx. CTC)":"\u20b910 LPA"
+    },
+    {
+        "College Name":"Rajasthan College of Engineering for Women, Jaipur",
+        "Location":"All Branches",
+        "Category":"ST",
+        "Percentile":37,
+        "CRL Rank":693000,
+        "Approx. Total Fees(4 years)":"3.0 - 3.4 Lakh",
+        "Hostel Fees":"\u20b965k\u201385k",
+        "Highest Package (Approx. CTC)":"\u20b910 LPA"
+    },
+    {
+        "College Name":"Rajasthan Engineering College, Dausa",
+        "Location":"All Branches",
+        "Category":"General",
+        "Percentile":85,
+        "CRL Rank":165000,
+        "Approx. Total Fees(4 years)":"3.0 - 3.4 Lakh",
+        "Hostel Fees":"\u20b965k\u201385k",
+        "Highest Package (Approx. CTC)":"\u20b910 LPA"
+    },
+    {
+        "College Name":"Rajasthan Engineering College, Dausa",
+        "Location":"All Branches",
+        "Category":"EWS",
+        "Percentile":75,
+        "CRL Rank":275000,
+        "Approx. Total Fees(4 years)":"3.0 - 3.4 Lakh",
+        "Hostel Fees":"\u20b965k\u201385k",
+        "Highest Package (Approx. CTC)":"\u20b910 LPA"
+    },
+    {
+        "College Name":"Rajasthan Engineering College, Dausa",
+        "Location":"All Branches",
+        "Category":"OBC",
+        "Percentile":73,
+        "CRL Rank":297000,
+        "Approx. Total Fees(4 years)":"3.0 - 3.2 Lakh",
+        "Hostel Fees":"\u20b965k\u201385k",
+        "Highest Package (Approx. CTC)":"\u20b98\u20139 LPA"
+    },
+    {
+        "College Name":"Rajasthan Engineering College, Dausa",
+        "Location":"All Branches",
+        "Category":"SC",
+        "Percentile":52,
+        "CRL Rank":528000,
+        "Approx. Total Fees(4 years)":"3.0 - 3.2 Lakh",
+        "Hostel Fees":"\u20b965k\u201385k",
+        "Highest Package (Approx. CTC)":"\u20b98\u20139 LPA"
+    },
+    {
+        "College Name":"Rajasthan Engineering College, Dausa",
+        "Location":"All Branches",
+        "Category":"ST",
+        "Percentile":37,
+        "CRL Rank":693000,
+        "Approx. Total Fees(4 years)":"3.0 - 3.2 Lakh",
+        "Hostel Fees":"\u20b965k\u201385k",
+        "Highest Package (Approx. CTC)":"\u20b98\u20139 LPA"
+    },
+    {
+        "College Name":"Rajasthan Institute of Engineering and Technology, Chittorgarh",
+        "Location":"All Branches",
+        "Category":"General",
+        "Percentile":85,
+        "CRL Rank":165000,
+        "Approx. Total Fees(4 years)":"3.0 - 3.2 Lakh",
+        "Hostel Fees":"\u20b965k\u201385k",
+        "Highest Package (Approx. CTC)":"\u20b98\u20139 LPA"
+    },
+    {
+        "College Name":"Rajasthan Institute of Engg. & Tech., Chittorgarh",
+        "Location":"All Branches",
+        "Category":"EWS",
+        "Percentile":75,
+        "CRL Rank":275000,
+        "Approx. Total Fees(4 years)":"3.0 - 3.2 Lakh",
+        "Hostel Fees":"\u20b965k\u201385k",
+        "Highest Package (Approx. CTC)":"\u20b98\u20139 LPA"
+    },
+    {
+        "College Name":"Rajasthan Institute of Engg. & Tech., Chittorgarh",
+        "Location":"All Branches",
+        "Category":"OBC",
+        "Percentile":73,
+        "CRL Rank":297000,
+        "Approx. Total Fees(4 years)":"2.8 Lakh",
+        "Hostel Fees":"\u20b930k\u201350k",
+        "Highest Package (Approx. CTC)":"\u20b914\u201318 LPA"
+    },
+    {
+        "College Name":"Rajasthan Institute of Engg. & Tech., Chittorgarh",
+        "Location":"All Branches",
+        "Category":"SC",
+        "Percentile":52,
+        "CRL Rank":528000,
+        "Approx. Total Fees(4 years)":"2.8 Lakh",
+        "Hostel Fees":"\u20b930k\u201350k",
+        "Highest Package (Approx. CTC)":"\u20b914\u201318 LPA"
+    },
+    {
+        "College Name":"Rajasthan Institute of Engg. & Tech., Chittorgarh",
+        "Location":"All Branches",
+        "Category":"ST",
+        "Percentile":37,
+        "CRL Rank":693000,
+        "Approx. Total Fees(4 years)":"2.8 Lakh",
+        "Hostel Fees":"\u20b930k\u201350k",
+        "Highest Package (Approx. CTC)":"\u20b914\u201318 LPA"
+    },
+    {
+        "College Name":"Rajdhani Engineering College, Jaipur",
+        "Location":"All Branches",
+        "Category":"General",
+        "Percentile":85,
+        "CRL Rank":165000,
+        "Approx. Total Fees(4 years)":"2.8 Lakh",
+        "Hostel Fees":"\u20b930k\u201350k",
+        "Highest Package (Approx. CTC)":"\u20b914\u201318 LPA"
+    },
+    {
+        "College Name":"Rajdhani Engineering College, Jaipur",
+        "Location":"All Branches",
+        "Category":"EWS",
+        "Percentile":75,
+        "CRL Rank":275000,
+        "Approx. Total Fees(4 years)":"2.8 Lakh",
+        "Hostel Fees":"\u20b930k\u201350k",
+        "Highest Package (Approx. CTC)":"\u20b914\u201318 LPA"
+    },
+    {
+        "College Name":"Rajdhani Engineering College, Jaipur",
+        "Location":"All Branches",
+        "Category":"OBC",
+        "Percentile":73,
+        "CRL Rank":297000,
+        "Approx. Total Fees(4 years)":"2.6 Lakh",
+        "Hostel Fees":"\u20b935k\u201350k",
+        "Highest Package (Approx. CTC)":"\u20b910\u201312 LPA"
+    },
+    {
+        "College Name":"Rajdhani Engineering College, Jaipur",
+        "Location":"All Branches",
+        "Category":"SC",
+        "Percentile":52,
+        "CRL Rank":528000,
+        "Approx. Total Fees(4 years)":"2.6 Lakh",
+        "Hostel Fees":"\u20b935k\u201350k",
+        "Highest Package (Approx. CTC)":"\u20b910\u201312 LPA"
+    },
+    {
+        "College Name":"Rajdhani Engineering College, Jaipur",
+        "Location":"All Branches",
+        "Category":"ST",
+        "Percentile":37,
+        "CRL Rank":693000,
+        "Approx. Total Fees(4 years)":"2.6 Lakh",
+        "Hostel Fees":"\u20b935k\u201350k",
+        "Highest Package (Approx. CTC)":"\u20b910\u201312 LPA"
+    },
+    {
+        "College Name":"Regional College for Education, Research & Technology, Jaipur",
+        "Location":"All Branches",
+        "Category":"General",
+        "Percentile":85,
+        "CRL Rank":165000,
+        "Approx. Total Fees(4 years)":"2.6 Lakh",
+        "Hostel Fees":"\u20b935k\u201350k",
+        "Highest Package (Approx. CTC)":"\u20b910\u201312 LPA"
+    },
+    {
+        "College Name":"Regional College for Edu., Research & Tech., Jaipur",
+        "Location":"All Branches",
+        "Category":"EWS",
+        "Percentile":75,
+        "CRL Rank":275000,
+        "Approx. Total Fees(4 years)":"2.6 Lakh",
+        "Hostel Fees":"\u20b935k\u201350k",
+        "Highest Package (Approx. CTC)":"\u20b910\u201312 LPA"
+    },
+    {
+        "College Name":"Regional College for Edu., Research & Tech., Jaipur",
+        "Location":"All Branches",
+        "Category":"OBC",
+        "Percentile":73,
+        "CRL Rank":297000,
+        "Approx. Total Fees(4 years)":"2.4 Lakh",
+        "Hostel Fees":"\u20b930k\u201340k",
+        "Highest Package (Approx. CTC)":"\u20b96\u20138 LPA"
+    },
+    {
+        "College Name":"Regional College for Edu., Research & Tech., Jaipur",
+        "Location":"All Branches",
+        "Category":"SC",
+        "Percentile":52,
+        "CRL Rank":528000,
+        "Approx. Total Fees(4 years)":"2.4 Lakh",
+        "Hostel Fees":"\u20b930k\u201340k",
+        "Highest Package (Approx. CTC)":"\u20b96\u20138 LPA"
+    },
+    {
+        "College Name":"Regional College for Edu., Research & Tech., Jaipur",
+        "Location":"All Branches",
+        "Category":"ST",
+        "Percentile":37,
+        "CRL Rank":693000,
+        "Approx. Total Fees(4 years)":"2.4 Lakh",
+        "Hostel Fees":"\u20b930k\u201340k",
+        "Highest Package (Approx. CTC)":"\u20b96\u20138 LPA"
+    },
+    {
+        "College Name":"Sawai Madhopur College of Engineering and Technology",
+        "Location":"Sawai Madhopur",
+        "Category":"General",
+        "Percentile":85,
+        "CRL Rank":165000,
+        "Approx. Total Fees(4 years)":"2.8 - 3.2 Lakh",
+        "Hostel Fees":"\u20b960,000 \u2013 \u20b980,000",
+        "Highest Package (Approx. CTC)":"\u20b96 \u2013 8 LPA"
+    },
+    {
+        "College Name":"Sawai Madhopur College of Engineering and Technology",
+        "Location":"Sawai Madhopur",
+        "Category":"EWS",
+        "Percentile":75,
+        "CRL Rank":275000,
+        "Approx. Total Fees(4 years)":"2.8 - 3.2 Lakh",
+        "Hostel Fees":"60,000 \u2013 80,000",
+        "Highest Package (Approx. CTC)":"6 \u2013 8 LPA"
+    },
+    {
+        "College Name":"Sawai Madhopur College of Engineering and Technology",
+        "Location":"Sawai Madhopur",
+        "Category":"OBC",
+        "Percentile":73,
+        "CRL Rank":297000,
+        "Approx. Total Fees(4 years)":"2.8 - 3.2 Lakh",
+        "Hostel Fees":"60,000 \u2013 80,000",
+        "Highest Package (Approx. CTC)":"6 \u2013 8 LPA"
+    },
+    {
+        "College Name":"Sawai Madhopur College of Engineering and Technology",
+        "Location":"Sawai Madhopur",
+        "Category":"SC",
+        "Percentile":52,
+        "CRL Rank":528000,
+        "Approx. Total Fees(4 years)":"2.8 - 3.2 Lakh",
+        "Hostel Fees":"60,000 \u2013 80,000",
+        "Highest Package (Approx. CTC)":"6 \u2013 8 LPA"
+    },
+    {
+        "College Name":"Sawai Madhopur College of Engineering and Technology",
+        "Location":"Sawai Madhopur",
+        "Category":"ST",
+        "Percentile":37,
+        "CRL Rank":693000,
+        "Approx. Total Fees(4 years)":"2.8 - 3.2 Lakh",
+        "Hostel Fees":"60,000 \u2013 80,000",
+        "Highest Package (Approx. CTC)":"6 \u2013 8 LPA"
+    },
+    {
+        "College Name":"School of Aeronautics Neemrana",
+        "Location":"Alwar",
+        "Category":"General",
+        "Percentile":85,
+        "CRL Rank":165000,
+        "Approx. Total Fees(4 years)":"3.0 - 3.5 Lakh",
+        "Hostel Fees":"\u20b960,000 \u2013 \u20b980,000",
+        "Highest Package (Approx. CTC)":"\u20b96 \u2013 9 LPA"
+    },
+    {
+        "College Name":"School of Aeronautics Neemrana",
+        "Location":"Alwar",
+        "Category":"EWS",
+        "Percentile":75,
+        "CRL Rank":275000,
+        "Approx. Total Fees(4 years)":"3.0 - 3.5 Lakh",
+        "Hostel Fees":"60,000 \u2013 80,000",
+        "Highest Package (Approx. CTC)":"6 \u2013 9 LPA"
+    },
+    {
+        "College Name":"School of Aeronautics Neemrana",
+        "Location":"Alwar",
+        "Category":"OBC",
+        "Percentile":73,
+        "CRL Rank":297000,
+        "Approx. Total Fees(4 years)":"3.0 - 3.5 Lakh",
+        "Hostel Fees":"60,000 \u2013 80,000",
+        "Highest Package (Approx. CTC)":"6 \u2013 9 LPA"
+    },
+    {
+        "College Name":"School of Aeronautics Neemrana",
+        "Location":"Alwar",
+        "Category":"SC",
+        "Percentile":52,
+        "CRL Rank":528000,
+        "Approx. Total Fees(4 years)":"3.0 - 3.5 Lakh",
+        "Hostel Fees":"60,000 \u2013 80,000",
+        "Highest Package (Approx. CTC)":"6 \u2013 9 LPA"
+    },
+    {
+        "College Name":"School of Aeronautics Neemrana",
+        "Location":"Alwar",
+        "Category":"ST",
+        "Percentile":37,
+        "CRL Rank":693000,
+        "Approx. Total Fees(4 years)":"3.0 - 3.5 Lakh",
+        "Hostel Fees":"60,000 \u2013 80,000",
+        "Highest Package (Approx. CTC)":"6 \u2013 9 LPA"
+    },
+    {
+        "College Name":"Shekhawati Engineering College",
+        "Location":"Dundlod, Jhunjhunu",
+        "Category":"General",
+        "Percentile":85,
+        "CRL Rank":165000,
+        "Approx. Total Fees(4 years)":"2.5 - 3.0 Lakh",
+        "Hostel Fees":"\u20b950,000 \u2013 \u20b975,000",
+        "Highest Package (Approx. CTC)":"\u20b95 \u2013 8 LPA"
+    },
+    {
+        "College Name":"Shekhawati Engineering College",
+        "Location":"Dundlod, Jhunjhunu",
+        "Category":"EWS",
+        "Percentile":75,
+        "CRL Rank":275000,
+        "Approx. Total Fees(4 years)":"2.5 - 3.0 Lakh",
+        "Hostel Fees":"50,000 \u2013 75,000",
+        "Highest Package (Approx. CTC)":"5 \u2013 8 LPA"
+    },
+    {
+        "College Name":"Shekhawati Engineering College",
+        "Location":"Dundlod, Jhunjhunu",
+        "Category":"OBC",
+        "Percentile":73,
+        "CRL Rank":297000,
+        "Approx. Total Fees(4 years)":"2.5 - 3.0 Lakh",
+        "Hostel Fees":"50,000 \u2013 75,000",
+        "Highest Package (Approx. CTC)":"5 \u2013 8 LPA"
+    },
+    {
+        "College Name":"Shekhawati Engineering College",
+        "Location":"Dundlod, Jhunjhunu",
+        "Category":"SC",
+        "Percentile":52,
+        "CRL Rank":528000,
+        "Approx. Total Fees(4 years)":"2.5 - 3.0 Lakh",
+        "Hostel Fees":"50,000 \u2013 75,000",
+        "Highest Package (Approx. CTC)":"5 \u2013 8 LPA"
+    },
+    {
+        "College Name":"Shekhawati Engineering College",
+        "Location":"Dundlod, Jhunjhunu",
+        "Category":"ST",
+        "Percentile":37,
+        "CRL Rank":693000,
+        "Approx. Total Fees(4 years)":"2.5 - 3.0 Lakh",
+        "Hostel Fees":"50,000 \u2013 75,000",
+        "Highest Package (Approx. CTC)":"5 \u2013 8 LPA"
+    },
+    {
+        "College Name":"Shekhawati Institute of Engineering and Technology",
+        "Location":"Sikar",
+        "Category":"General",
+        "Percentile":85,
+        "CRL Rank":165000,
+        "Approx. Total Fees(4 years)":"2.5 - 3.0 Lakh",
+        "Hostel Fees":"\u20b950,000 \u2013 \u20b975,000",
+        "Highest Package (Approx. CTC)":"\u20b95 \u2013 8 LPA"
+    },
+    {
+        "College Name":"Shekhawati Institute of Engg. & Tech., Sikar",
+        "Location":"Sikar",
+        "Category":"EWS",
+        "Percentile":75,
+        "CRL Rank":275000,
+        "Approx. Total Fees(4 years)":"2.5 - 3.0 Lakh",
+        "Hostel Fees":"50,000 \u2013 75,000",
+        "Highest Package (Approx. CTC)":"5 \u2013 8 LPA"
+    },
+    {
+        "College Name":"Shekhawati Institute of Engg. & Tech., Sikar",
+        "Location":"Sikar",
+        "Category":"OBC",
+        "Percentile":73,
+        "CRL Rank":297000,
+        "Approx. Total Fees(4 years)":"2.5 - 3.0 Lakh",
+        "Hostel Fees":"50,000 \u2013 75,000",
+        "Highest Package (Approx. CTC)":"5 \u2013 8 LPA"
+    },
+    {
+        "College Name":"Shekhawati Institute of Engg. & Tech., Sikar",
+        "Location":"Sikar",
+        "Category":"SC",
+        "Percentile":52,
+        "CRL Rank":528000,
+        "Approx. Total Fees(4 years)":"2.5 - 3.0 Lakh",
+        "Hostel Fees":"50,000 \u2013 75,000",
+        "Highest Package (Approx. CTC)":"5 \u2013 8 LPA"
+    },
+    {
+        "College Name":"Shekhawati Institute of Engg. & Tech., Sikar",
+        "Location":"Sikar",
+        "Category":"ST",
+        "Percentile":37,
+        "CRL Rank":693000,
+        "Approx. Total Fees(4 years)":"2.5 - 3.0 Lakh",
+        "Hostel Fees":"50,000 \u2013 75,000",
+        "Highest Package (Approx. CTC)":"5 \u2013 8 LPA"
+    },
+    {
+        "College Name":"Shree Digambar Institute of Technology",
+        "Location":"Mitrapura, Dausa",
+        "Category":"General",
+        "Percentile":85,
+        "CRL Rank":165000,
+        "Approx. Total Fees(4 years)":"2.4 - 3.0 Lakh",
+        "Hostel Fees":"\u20b950,000 \u2013 \u20b970,000",
+        "Highest Package (Approx. CTC)":"\u20b95 \u2013 7 LPA"
+    },
+    {
+        "College Name":"Shree Digambar Institute of Technology",
+        "Location":"Mitrapura, Dausa",
+        "Category":"EWS",
+        "Percentile":75,
+        "CRL Rank":275000,
+        "Approx. Total Fees(4 years)":"2.4 - 3.0 Lakh",
+        "Hostel Fees":"50,000 \u2013 70,000",
+        "Highest Package (Approx. CTC)":"5 \u2013 7 LPA"
+    },
+    {
+        "College Name":"Shree Digambar Institute of Technology",
+        "Location":"Mitrapura, Dausa",
+        "Category":"OBC",
+        "Percentile":73,
+        "CRL Rank":297000,
+        "Approx. Total Fees(4 years)":"2.4 - 3.0 Lakh",
+        "Hostel Fees":"50,000 \u2013 70,000",
+        "Highest Package (Approx. CTC)":"5 \u2013 7 LPA"
+    },
+    {
+        "College Name":"Shree Digambar Institute of Technology",
+        "Location":"Mitrapura, Dausa",
+        "Category":"SC",
+        "Percentile":52,
+        "CRL Rank":528000,
+        "Approx. Total Fees(4 years)":"2.4 - 3.0 Lakh",
+        "Hostel Fees":"50,000 \u2013 70,000",
+        "Highest Package (Approx. CTC)":"5 \u2013 7 LPA"
+    },
+    {
+        "College Name":"Shree Digambar Institute of Technology",
+        "Location":"Mitrapura, Dausa",
+        "Category":"ST",
+        "Percentile":37,
+        "CRL Rank":693000,
+        "Approx. Total Fees(4 years)":"2.4 - 3.0 Lakh",
+        "Hostel Fees":"50,000 \u2013 70,000",
+        "Highest Package (Approx. CTC)":"5 \u2013 7 LPA"
+    },
+    {
+        "College Name":"Shri Bhawani Niketan Institute of Tech. & Management",
+        "Location":"Jaipur",
+        "Category":"General",
+        "Percentile":85,
+        "CRL Rank":165000,
+        "Approx. Total Fees(4 years)":"2.6 - 3.2 Lakh",
+        "Hostel Fees":"\u20b955,000 \u2013 \u20b975,000",
+        "Highest Package (Approx. CTC)":"\u20b95 \u2013 8 LPA"
+    },
+    {
+        "College Name":"Shri Bhawani Niketan Inst. of Tech. & Mgmt., Jaipur",
+        "Location":"Jaipur",
+        "Category":"EWS",
+        "Percentile":75,
+        "CRL Rank":275000,
+        "Approx. Total Fees(4 years)":"2.6 - 3.2 Lakh",
+        "Hostel Fees":"55,000 \u2013 75,000",
+        "Highest Package (Approx. CTC)":"5 \u2013 8 LPA"
+    },
+    {
+        "College Name":"Shri Bhawani Niketan Inst. of Tech. & Mgmt., Jaipur",
+        "Location":"Jaipur",
+        "Category":"OBC",
+        "Percentile":73,
+        "CRL Rank":297000,
+        "Approx. Total Fees(4 years)":"2.6 - 3.2 Lakh",
+        "Hostel Fees":"55,000 \u2013 75,000",
+        "Highest Package (Approx. CTC)":"5 \u2013 8 LPA"
+    },
+    {
+        "College Name":"Shri Bhawani Niketan Inst. of Tech. & Mgmt., Jaipur",
+        "Location":"Jaipur",
+        "Category":"SC",
+        "Percentile":52,
+        "CRL Rank":528000,
+        "Approx. Total Fees(4 years)":"2.6 - 3.2 Lakh",
+        "Hostel Fees":"55,000 \u2013 75,000",
+        "Highest Package (Approx. CTC)":"5 \u2013 8 LPA"
+    },
+    {
+        "College Name":"Shri Bhawani Niketan Inst. of Tech. & Mgmt., Jaipur",
+        "Location":"Jaipur",
+        "Category":"ST",
+        "Percentile":37,
+        "CRL Rank":693000,
+        "Approx. Total Fees(4 years)":"2.6 - 3.2 Lakh",
+        "Hostel Fees":"55,000 \u2013 75,000",
+        "Highest Package (Approx. CTC)":"5 \u2013 8 LPA"
+    },
+    {
+        "College Name":"Shrinathji Institute of Tech. & Engg.",
+        "Location":"Nathdwara, Rajsamand",
+        "Category":"General",
+        "Percentile":85,
+        "CRL Rank":165000,
+        "Approx. Total Fees(4 years)":"2.5 - 3.1 Lakh",
+        "Hostel Fees":"\u20b950,000 \u2013 \u20b980,000",
+        "Highest Package (Approx. CTC)":"\u20b95 \u2013 8 LPA"
+    },
+    {
+        "College Name":"Shrinathji Institute of Tech. & Engg., Nathdwara",
+        "Location":"Nathdwara, Rajsamand",
+        "Category":"EWS",
+        "Percentile":75,
+        "CRL Rank":275000,
+        "Approx. Total Fees(4 years)":"2.5 - 3.1 Lakh",
+        "Hostel Fees":"50,000 \u2013 80,000",
+        "Highest Package (Approx. CTC)":"5 \u2013 8 LPA"
+    },
+    {
+        "College Name":"Shrinathji Institute of Tech. & Engg., Nathdwara",
+        "Location":"Nathdwara, Rajsamand",
+        "Category":"OBC",
+        "Percentile":73,
+        "CRL Rank":297000,
+        "Approx. Total Fees(4 years)":"2.5 - 3.1 Lakh",
+        "Hostel Fees":"50,000 \u2013 80,000",
+        "Highest Package (Approx. CTC)":"5 \u2013 8 LPA"
+    },
+    {
+        "College Name":"Shrinathji Institute of Tech. & Engg., Nathdwara",
+        "Location":"Nathdwara, Rajsamand",
+        "Category":"SC",
+        "Percentile":52,
+        "CRL Rank":528000,
+        "Approx. Total Fees(4 years)":"2.5 - 3.1 Lakh",
+        "Hostel Fees":"50,000 \u2013 80,000",
+        "Highest Package (Approx. CTC)":"5 \u2013 8 LPA"
+    },
+    {
+        "College Name":"Shrinathji Institute of Tech. & Engg., Nathdwara",
+        "Location":"Nathdwara, Rajsamand",
+        "Category":"ST",
+        "Percentile":37,
+        "CRL Rank":693000,
+        "Approx. Total Fees(4 years)":"2.5 - 3.1 Lakh",
+        "Hostel Fees":"50,000 \u2013 80,000",
+        "Highest Package (Approx. CTC)":"5 \u2013 8 LPA"
+    },
+    {
+        "College Name":"SLBS Engineering College",
+        "Location":"Jodhpur",
+        "Category":"General",
+        "Percentile":85,
+        "CRL Rank":165000,
+        "Approx. Total Fees(4 years)":"2.4 - 2.8 Lakh",
+        "Hostel Fees":"\u20b960,000 \u2013 \u20b980,000",
+        "Highest Package (Approx. CTC)":"\u20b95 \u2013 9 LPA"
+    },
+    {
+        "College Name":"SLBS Engineering College, Jodhpur",
+        "Location":"Jodhpur",
+        "Category":"EWS",
+        "Percentile":75,
+        "CRL Rank":275000,
+        "Approx. Total Fees(4 years)":"2.4 - 2.8 Lakh",
+        "Hostel Fees":"60,000 \u2013 80,000",
+        "Highest Package (Approx. CTC)":"5 \u2013 9 LPA"
+    },
+    {
+        "College Name":"SLBS Engineering College, Jodhpur",
+        "Location":"Jodhpur",
+        "Category":"OBC",
+        "Percentile":73,
+        "CRL Rank":297000,
+        "Approx. Total Fees(4 years)":"2.4 - 2.8 Lakh",
+        "Hostel Fees":"60,000 \u2013 80,000",
+        "Highest Package (Approx. CTC)":"5 \u2013 9 LPA"
+    },
+    {
+        "College Name":"SLBS Engineering College, Jodhpur",
+        "Location":"Jodhpur",
+        "Category":"SC",
+        "Percentile":52,
+        "CRL Rank":528000,
+        "Approx. Total Fees(4 years)":"2.4 - 2.8 Lakh",
+        "Hostel Fees":"60,000 \u2013 80,000",
+        "Highest Package (Approx. CTC)":"5 \u2013 9 LPA"
+    },
+    {
+        "College Name":"SLBS Engineering College, Jodhpur",
+        "Location":"Jodhpur",
+        "Category":"ST",
+        "Percentile":37,
+        "CRL Rank":693000,
+        "Approx. Total Fees(4 years)":"2.4 - 2.8 Lakh",
+        "Hostel Fees":"60,000 \u2013 80,000",
+        "Highest Package (Approx. CTC)":"5 \u2013 9 LPA"
+    },
+    {
+        "College Name":"Sobhasaria Group of Institutions",
+        "Location":"Sikar",
+        "Category":"General",
+        "Percentile":85,
+        "CRL Rank":165000,
+        "Approx. Total Fees(4 years)":"2.8 - 3.4 Lakh",
+        "Hostel Fees":"\u20b960,000 \u2013 \u20b985,000",
+        "Highest Package (Approx. CTC)":"\u20b96 \u2013 9 LPA"
+    },
+    {
+        "College Name":"Sobhasaria Group of Institutions, Sikar",
+        "Location":"Sikar",
+        "Category":"EWS",
+        "Percentile":75,
+        "CRL Rank":275000,
+        "Approx. Total Fees(4 years)":"2.8 - 3.4 Lakh",
+        "Hostel Fees":"60,000 \u2013 85,000",
+        "Highest Package (Approx. CTC)":"6 \u2013 9 LPA"
+    },
+    {
+        "College Name":"Sobhasaria Group of Institutions, Sikar",
+        "Location":"Sikar",
+        "Category":"OBC",
+        "Percentile":73,
+        "CRL Rank":297000,
+        "Approx. Total Fees(4 years)":"2.8 - 3.4 Lakh",
+        "Hostel Fees":"60,000 \u2013 85,000",
+        "Highest Package (Approx. CTC)":"6 \u2013 9 LPA"
+    },
+    {
+        "College Name":"Sobhasaria Group of Institutions, Sikar",
+        "Location":"Sikar",
+        "Category":"SC",
+        "Percentile":52,
+        "CRL Rank":528000,
+        "Approx. Total Fees(4 years)":"2.8 - 3.4 Lakh",
+        "Hostel Fees":"60,000 \u2013 85,000",
+        "Highest Package (Approx. CTC)":"6 \u2013 9 LPA"
+    },
+    {
+        "College Name":"Sobhasaria Group of Institutions, Sikar",
+        "Location":"Sikar",
+        "Category":"ST",
+        "Percentile":37,
+        "CRL Rank":693000,
+        "Approx. Total Fees(4 years)":"2.8 - 3.4 Lakh",
+        "Hostel Fees":"60,000 \u2013 85,000",
+        "Highest Package (Approx. CTC)":"6 \u2013 9 LPA"
+    },
+    {
+        "College Name":"Sri Balaji College of Engineering & Technology",
+        "Location":"Jaipur",
+        "Category":"General",
+        "Percentile":85,
+        "CRL Rank":165000,
+        "Approx. Total Fees(4 years)":"2.5 - 3.0 Lakh",
+        "Hostel Fees":"\u20b950,000 \u2013 \u20b970,000",
+        "Highest Package (Approx. CTC)":"\u20b95 \u2013 8 LPA"
+    },
+    {
+        "College Name":"Sri Balaji College of Engg. & Tech., Jaipur",
+        "Location":"Jaipur",
+        "Category":"EWS",
+        "Percentile":75,
+        "CRL Rank":275000,
+        "Approx. Total Fees(4 years)":"2.5 - 3.0 Lakh",
+        "Hostel Fees":"50,000 \u2013 70,000",
+        "Highest Package (Approx. CTC)":"5 \u2013 8 LPA"
+    },
+    {
+        "College Name":"Sri Balaji College of Engg. & Tech., Jaipur",
+        "Location":"Jaipur",
+        "Category":"OBC",
+        "Percentile":73,
+        "CRL Rank":297000,
+        "Approx. Total Fees(4 years)":"2.5 - 3.0 Lakh",
+        "Hostel Fees":"50,000 \u2013 70,000",
+        "Highest Package (Approx. CTC)":"5 \u2013 8 LPA"
+    },
+    {
+        "College Name":"Sri Balaji College of Engg. & Tech., Jaipur",
+        "Location":"Jaipur",
+        "Category":"SC",
+        "Percentile":52,
+        "CRL Rank":528000,
+        "Approx. Total Fees(4 years)":"2.5 - 3.0 Lakh",
+        "Hostel Fees":"50,000 \u2013 70,000",
+        "Highest Package (Approx. CTC)":"5 \u2013 8 LPA"
+    },
+    {
+        "College Name":"Sri Balaji College of Engg. & Tech., Jaipur",
+        "Location":"Jaipur",
+        "Category":"ST",
+        "Percentile":37,
+        "CRL Rank":693000,
+        "Approx. Total Fees(4 years)":"2.5 - 3.0 Lakh",
+        "Hostel Fees":"50,000 \u2013 70,000",
+        "Highest Package (Approx. CTC)":"5 \u2013 8 LPA"
+    },
+    {
+        "College Name":"Vivekananda Global University (VGU)",
+        "Location":"Jaipur",
+        "Category":"General",
+        "Percentile":85,
+        "CRL Rank":165000,
+        "Approx. Total Fees(4 years)":"3.0 - 3.8 Lakh",
+        "Hostel Fees":"\u20b970,000 \u2013 \u20b990,000",
+        "Highest Package (Approx. CTC)":"\u20b97 \u2013 12 LPA"
+    },
+    {
+        "College Name":"Vivekananda Global University (VGU), Jaipur",
+        "Location":"Jaipur",
+        "Category":"EWS",
+        "Percentile":75,
+        "CRL Rank":275000,
+        "Approx. Total Fees(4 years)":"3.0 - 3.8 Lakh",
+        "Hostel Fees":"70,000 \u2013 90,000",
+        "Highest Package (Approx. CTC)":"7 \u2013 12 LPA"
+    },
+    {
+        "College Name":"Vivekananda Global University (VGU), Jaipur",
+        "Location":"Jaipur",
+        "Category":"OBC",
+        "Percentile":73,
+        "CRL Rank":297000,
+        "Approx. Total Fees(4 years)":"3.0 - 3.8 Lakh",
+        "Hostel Fees":"70,000 \u2013 90,000",
+        "Highest Package (Approx. CTC)":"7 \u2013 12 LPA"
+    },
+    {
+        "College Name":"Vivekananda Global University (VGU), Jaipur",
+        "Location":"Jaipur",
+        "Category":"SC",
+        "Percentile":52,
+        "CRL Rank":528000,
+        "Approx. Total Fees(4 years)":"3.0 - 3.8 Lakh",
+        "Hostel Fees":"70,000 \u2013 90,000",
+        "Highest Package (Approx. CTC)":"7 \u2013 12 LPA"
+    },
+    {
+        "College Name":"Vivekananda Global University (VGU), Jaipur",
+        "Location":"Jaipur",
+        "Category":"ST",
+        "Percentile":37,
+        "CRL Rank":693000,
+        "Approx. Total Fees(4 years)":"3.0 - 3.8 Lakh",
+        "Hostel Fees":"70,000 \u2013 90,000",
+        "Highest Package (Approx. CTC)":"7 \u2013 12 LPA"
+    },
+    {
+        "College Name":"Yaduvanshi College of Engineering & Technology (YCET)",
+        "Location":"Jhunjhunu",
+        "Category":"General",
+        "Percentile":85,
+        "CRL Rank":165000,
+        "Approx. Total Fees(4 years)":"2.4 - 2.8 Lakh",
+        "Hostel Fees":"\u20b945,000 \u2013 \u20b970,000",
+        "Highest Package (Approx. CTC)":"\u20b95 \u2013 8 LPA"
+    },
+    {
+        "College Name":"Yaduvanshi College of Engg. & Tech. (YCET), Jhunjhunu",
+        "Location":"Jhunjhunu",
+        "Category":"EWS",
+        "Percentile":75,
+        "CRL Rank":275000,
+        "Approx. Total Fees(4 years)":"2.4 - 2.8 Lakh",
+        "Hostel Fees":"45,000 \u2013 70,000",
+        "Highest Package (Approx. CTC)":"5 \u2013 8 LPA"
+    },
+    {
+        "College Name":"Yaduvanshi College of Engg. & Tech. (YCET), Jhunjhunu",
+        "Location":"Jhunjhunu",
+        "Category":"OBC",
+        "Percentile":73,
+        "CRL Rank":297000,
+        "Approx. Total Fees(4 years)":"2.4 - 2.8 Lakh",
+        "Hostel Fees":"45,000 \u2013 70,000",
+        "Highest Package (Approx. CTC)":"5 \u2013 8 LPA"
+    },
+    {
+        "College Name":"Yaduvanshi College of Engg. & Tech. (YCET), Jhunjhunu",
+        "Location":"Jhunjhunu",
+        "Category":"SC",
+        "Percentile":52,
+        "CRL Rank":528000,
+        "Approx. Total Fees(4 years)":"2.4 - 2.8 Lakh",
+        "Hostel Fees":"45,000 \u2013 70,000",
+        "Highest Package (Approx. CTC)":"5 \u2013 8 LPA"
+    },
+    {
+        "College Name":"Yaduvanshi College of Engg. & Tech. (YCET), Jhunjhunu",
+        "Location":"Jhunjhunu",
+        "Category":"ST",
+        "Percentile":37,
+        "CRL Rank":693000,
+        "Approx. Total Fees(4 years)":"2.4 - 2.8 Lakh",
+        "Hostel Fees":"45,000 \u2013 70,000",
+        "Highest Package (Approx. CTC)":"5 \u2013 8 LPA"
+    },
+    {
+        "College Name":"Asians Institute of Technology",
+        "Location":"Jaipur",
+        "Category":"General",
+        "Percentile":85,
+        "CRL Rank":165000,
+        "Approx. Total Fees(4 years)":"2.4 - 3.2 Lakh",
+        "Hostel Fees":"\u20b950,000 \u2013 \u20b980,000",
+        "Highest Package (Approx. CTC)":"\u20b95 \u2013 8 LPA"
+    },
+    {
+        "College Name":"Asians Institute of Technology, Jaipur",
+        "Location":"Jaipur",
+        "Category":"EWS",
+        "Percentile":75,
+        "CRL Rank":275000,
+        "Approx. Total Fees(4 years)":"2.4 - 3.2 Lakh",
+        "Hostel Fees":"50,000 \u2013 80,000",
+        "Highest Package (Approx. CTC)":"5 \u2013 8 LPA"
+    },
+    {
+        "College Name":"Asians Institute of Technology, Jaipur",
+        "Location":"Jaipur",
+        "Category":"OBC",
+        "Percentile":73,
+        "CRL Rank":297000,
+        "Approx. Total Fees(4 years)":"2.4 - 3.2 Lakh",
+        "Hostel Fees":"50,000 \u2013 80,000",
+        "Highest Package (Approx. CTC)":"5 \u2013 8 LPA"
+    },
+    {
+        "College Name":"Asians Institute of Technology, Jaipur",
+        "Location":"Jaipur",
+        "Category":"SC",
+        "Percentile":52,
+        "CRL Rank":528000,
+        "Approx. Total Fees(4 years)":"2.4 - 3.2 Lakh",
+        "Hostel Fees":"50,000 \u2013 80,000",
+        "Highest Package (Approx. CTC)":"5 \u2013 8 LPA"
+    },
+    {
+        "College Name":"Asians Institute of Technology, Jaipur",
+        "Location":"Jaipur",
+        "Category":"ST",
+        "Percentile":37,
+        "CRL Rank":693000,
+        "Approx. Total Fees(4 years)":"2.4 - 3.2 Lakh",
+        "Hostel Fees":"50,000 \u2013 80,000",
+        "Highest Package (Approx. CTC)":"5 \u2013 8 LPA"
+    },
+    {
+        "College Name":"Vedant College of Engineering & Technology (VCET)",
+        "Location":"Bundi",
+        "Category":"General",
+        "Percentile":85,
+        "CRL Rank":165000,
+        "Approx. Total Fees(4 years)":"2.4 - 3.0 Lakh",
+        "Hostel Fees":"\u20b950,000 \u2013 \u20b975,000",
+        "Highest Package (Approx. CTC)":"\u20b95 \u2013 8 LPA"
+    },
+    {
+        "College Name":"VCET, Bundi",
+        "Location":"Bundi",
+        "Category":"EWS",
+        "Percentile":75,
+        "CRL Rank":275000,
+        "Approx. Total Fees(4 years)":"2.4 - 3.0 Lakh",
+        "Hostel Fees":"50,000 \u2013 75,000",
+        "Highest Package (Approx. CTC)":"5 \u2013 8 LPA"
+    },
+    {
+        "College Name":"VCET, Bundi",
+        "Location":"Bundi",
+        "Category":"OBC",
+        "Percentile":73,
+        "CRL Rank":297000,
+        "Approx. Total Fees(4 years)":"2.4 - 3.0 Lakh",
+        "Hostel Fees":"50,000 \u2013 75,000",
+        "Highest Package (Approx. CTC)":"5 \u2013 8 LPA"
+    },
+    {
+        "College Name":"VCET, Bundi",
+        "Location":"Bundi",
+        "Category":"SC",
+        "Percentile":52,
+        "CRL Rank":528000,
+        "Approx. Total Fees(4 years)":"2.4 - 3.0 Lakh",
+        "Hostel Fees":"50,000 \u2013 75,000",
+        "Highest Package (Approx. CTC)":"5 \u2013 8 LPA"
+    },
+    {
+        "College Name":"VCET, Bundi",
+        "Location":"Bundi",
+        "Category":"ST",
+        "Percentile":37,
+        "CRL Rank":693000,
+        "Approx. Total Fees(4 years)":"2.4 - 3.0 Lakh",
+        "Hostel Fees":"50,000 \u2013 75,000",
+        "Highest Package (Approx. CTC)":"5 \u2013 8 LPA"
+    },
+    {
+        "College Name":"Poornima Institute of Engineering & Technology (PIET)",
+        "Location":"Jaipur",
+        "Category":"General",
+        "Percentile":85,
+        "CRL Rank":165000,
+        "Approx. Total Fees(4 years)":"3.0 - 3.8 Lakh",
+        "Hostel Fees":"\u20b960,000 \u2013 \u20b990,000",
+        "Highest Package (Approx. CTC)":"\u20b96 \u2013 10 LPA"
+    },
+    {
+        "College Name":"PIET, Jaipur",
+        "Location":"Jaipur",
+        "Category":"EWS",
+        "Percentile":75,
+        "CRL Rank":275000,
+        "Approx. Total Fees(4 years)":"3.0 - 3.8 Lakh",
+        "Hostel Fees":"60,000 \u2013 90,000",
+        "Highest Package (Approx. CTC)":"6 \u2013 10 LPA"
+    },
+    {
+        "College Name":"PIET, Jaipur",
+        "Location":"Jaipur",
+        "Category":"OBC",
+        "Percentile":73,
+        "CRL Rank":297000,
+        "Approx. Total Fees(4 years)":"3.0 - 3.8 Lakh",
+        "Hostel Fees":"60,000 \u2013 90,000",
+        "Highest Package (Approx. CTC)":"6 \u2013 10 LPA"
+    },
+    {
+        "College Name":"PIET, Jaipur",
+        "Location":"Jaipur",
+        "Category":"SC",
+        "Percentile":52,
+        "CRL Rank":528000,
+        "Approx. Total Fees(4 years)":"3.0 - 3.8 Lakh",
+        "Hostel Fees":"60,000 \u2013 90,000",
+        "Highest Package (Approx. CTC)":"6 \u2013 10 LPA"
+    },
+    {
+        "College Name":"PIET, Jaipur",
+        "Location":"Jaipur",
+        "Category":"ST",
+        "Percentile":37,
+        "CRL Rank":693000,
+        "Approx. Total Fees(4 years)":"3.0 - 3.8 Lakh",
+        "Hostel Fees":"60,000 \u2013 90,000",
+        "Highest Package (Approx. CTC)":"6 \u2013 10 LPA"
+    },
+    {
+        "College Name":"Rajasthan College of Engineering for Women (RCEW)",
+        "Location":"Jaipur",
+        "Category":"General",
+        "Percentile":85,
+        "CRL Rank":165000,
+        "Approx. Total Fees(4 years)":"2.8 - 3.4 Lakh",
+        "Hostel Fees":"\u20b960,000 \u2013 \u20b980,000",
+        "Highest Package (Approx. CTC)":"\u20b95 \u2013 9 LPA"
+    },
+    {
+        "College Name":"RCEW, Jaipur",
+        "Location":"Jaipur",
+        "Category":"EWS",
+        "Percentile":75,
+        "CRL Rank":275000,
+        "Approx. Total Fees(4 years)":"2.8 - 3.4 Lakh",
+        "Hostel Fees":"60,000 \u2013 80,000",
+        "Highest Package (Approx. CTC)":"5 \u2013 9 LPA"
+    },
+    {
+        "College Name":"RCEW, Jaipur",
+        "Location":"Jaipur",
+        "Category":"OBC",
+        "Percentile":73,
+        "CRL Rank":297000,
+        "Approx. Total Fees(4 years)":"2.8 - 3.4 Lakh",
+        "Hostel Fees":"60,000 \u2013 80,000",
+        "Highest Package (Approx. CTC)":"5 \u2013 9 LPA"
+    },
+    {
+        "College Name":"RCEW, Jaipur",
+        "Location":"Jaipur",
+        "Category":"SC",
+        "Percentile":52,
+        "CRL Rank":528000,
+        "Approx. Total Fees(4 years)":"2.8 - 3.4 Lakh",
+        "Hostel Fees":"60,000 \u2013 80,000",
+        "Highest Package (Approx. CTC)":"5 \u2013 9 LPA"
+    },
+    {
+        "College Name":"RCEW, Jaipur",
+        "Location":"Jaipur",
+        "Category":"ST",
+        "Percentile":37,
+        "CRL Rank":693000,
+        "Approx. Total Fees(4 years)":"2.8 - 3.4 Lakh",
+        "Hostel Fees":"60,000 \u2013 80,000",
+        "Highest Package (Approx. CTC)":"5 \u2013 9 LPA"
+    },
+    {
+        "College Name":"Maharani Girls Engineering College",
+        "Location":"Jaipur",
+        "Category":"General",
+        "Percentile":85,
+        "CRL Rank":165000,
+        "Approx. Total Fees(4 years)":"2.6 - 3.2 Lakh",
+        "Hostel Fees":"\u20b950,000 \u2013 \u20b980,000",
+        "Highest Package (Approx. CTC)":"\u20b95 \u2013 9 LPA"
+    },
+    {
+        "College Name":"Maharani Girls Engg. College, Jaipur",
+        "Location":"Jaipur",
+        "Category":"EWS",
+        "Percentile":75,
+        "CRL Rank":275000,
+        "Approx. Total Fees(4 years)":"2.6 - 3.2 Lakh",
+        "Hostel Fees":"50,000 \u2013 80,000",
+        "Highest Package (Approx. CTC)":"5 \u2013 9 LPA"
+    },
+    {
+        "College Name":"Maharani Girls Engg. College, Jaipur",
+        "Location":"Jaipur",
+        "Category":"OBC",
+        "Percentile":73,
+        "CRL Rank":297000,
+        "Approx. Total Fees(4 years)":"2.6 - 3.2 Lakh",
+        "Hostel Fees":"50,000 \u2013 80,000",
+        "Highest Package (Approx. CTC)":"5 \u2013 9 LPA"
+    },
+    {
+        "College Name":"Maharani Girls Engg. College, Jaipur",
+        "Location":"Jaipur",
+        "Category":"SC",
+        "Percentile":52,
+        "CRL Rank":528000,
+        "Approx. Total Fees(4 years)":"2.6 - 3.2 Lakh",
+        "Hostel Fees":"50,000 \u2013 80,000",
+        "Highest Package (Approx. CTC)":"5 \u2013 9 LPA"
+    },
+    {
+        "College Name":"Maharani Girls Engg. College, Jaipur",
+        "Location":"Jaipur",
+        "Category":"ST",
+        "Percentile":37,
+        "CRL Rank":693000,
+        "Approx. Total Fees(4 years)":"2.6 - 3.2 Lakh",
+        "Hostel Fees":"50,000 \u2013 80,000",
+        "Highest Package (Approx. CTC)":"5 \u2013 9 LPA"
+    },
+    {
+        "College Name":"Mahatma Gandhi Engineering College",
+        "Location":"Jaipur",
+        "Category":"General",
+        "Percentile":85,
+        "CRL Rank":165000,
+        "Approx. Total Fees(4 years)":"2.5 - 3.2 Lakh",
+        "Hostel Fees":"\u20b950,000 \u2013 \u20b980,000",
+        "Highest Package (Approx. CTC)":"\u20b95 \u2013 8 LPA"
+    },
+    {
+        "College Name":"Mahatma Gandhi Engg. College, Jaipur",
+        "Location":"Jaipur",
+        "Category":"EWS",
+        "Percentile":75,
+        "CRL Rank":275000,
+        "Approx. Total Fees(4 years)":"2.5 - 3.2 Lakh",
+        "Hostel Fees":"50,000 \u2013 80,000",
+        "Highest Package (Approx. CTC)":"5 \u2013 8 LPA"
+    },
+    {
+        "College Name":"Mahatma Gandhi Engg. College, Jaipur",
+        "Location":"Jaipur",
+        "Category":"OBC",
+        "Percentile":73,
+        "CRL Rank":297000,
+        "Approx. Total Fees(4 years)":"2.5 - 3.2 Lakh",
+        "Hostel Fees":"50,000 \u2013 80,000",
+        "Highest Package (Approx. CTC)":"5 \u2013 8 LPA"
+    },
+    {
+        "College Name":"Mahatma Gandhi Engg. College, Jaipur",
+        "Location":"Jaipur",
+        "Category":"SC",
+        "Percentile":52,
+        "CRL Rank":528000,
+        "Approx. Total Fees(4 years)":"2.5 - 3.2 Lakh",
+        "Hostel Fees":"50,000 \u2013 80,000",
+        "Highest Package (Approx. CTC)":"5 \u2013 8 LPA"
+    },
+    {
+        "College Name":"Mahatma Gandhi Engg. College, Jaipur",
+        "Location":"Jaipur",
+        "Category":"ST",
+        "Percentile":37,
+        "CRL Rank":693000,
+        "Approx. Total Fees(4 years)":"2.5 - 3.2 Lakh",
+        "Hostel Fees":"50,000 \u2013 80,000",
+        "Highest Package (Approx. CTC)":"5 \u2013 8 LPA"
+    },
+    {
+        "College Name":"Mahaveer Institute of Technology & Science",
+        "Location":"Pali",
+        "Category":"General",
+        "Percentile":85,
+        "CRL Rank":165000,
+        "Approx. Total Fees(4 years)":"2.4 - 3.0 Lakh",
+        "Hostel Fees":"\u20b950,000 \u2013 \u20b970,000",
+        "Highest Package (Approx. CTC)":"\u20b95 \u2013 8 LPA"
+    },
+    {
+        "College Name":"Mahaveer Inst. of Tech. & Sci., Pali",
+        "Location":"Pali",
+        "Category":"EWS",
+        "Percentile":75,
+        "CRL Rank":275000,
+        "Approx. Total Fees(4 years)":"2.4 - 3.0 Lakh",
+        "Hostel Fees":"50,000 \u2013 70,000",
+        "Highest Package (Approx. CTC)":"5 \u2013 8 LPA"
+    },
+    {
+        "College Name":"Mahaveer Inst. of Tech. & Sci., Pali",
+        "Location":"Pali",
+        "Category":"OBC",
+        "Percentile":73,
+        "CRL Rank":297000,
+        "Approx. Total Fees(4 years)":"2.4 - 3.0 Lakh",
+        "Hostel Fees":"50,000 \u2013 70,000",
+        "Highest Package (Approx. CTC)":"5 \u2013 8 LPA"
+    },
+    {
+        "College Name":"Mahaveer Inst. of Tech. & Sci., Pali",
+        "Location":"Pali",
+        "Category":"SC",
+        "Percentile":52,
+        "CRL Rank":528000,
+        "Approx. Total Fees(4 years)":"2.4 - 3.0 Lakh",
+        "Hostel Fees":"50,000 \u2013 70,000",
+        "Highest Package (Approx. CTC)":"5 \u2013 8 LPA"
+    },
+    {
+        "College Name":"Mahaveer Inst. of Tech. & Sci., Pali",
+        "Location":"Pali",
+        "Category":"ST",
+        "Percentile":37,
+        "CRL Rank":693000,
+        "Approx. Total Fees(4 years)":"2.4 - 3.0 Lakh",
+        "Hostel Fees":"50,000 \u2013 70,000",
+        "Highest Package (Approx. CTC)":"5 \u2013 8 LPA"
+    },
+    {
+        "College Name":"Manda Institute of Technology",
+        "Location":"Bikaner",
+        "Category":"General",
+        "Percentile":85,
+        "CRL Rank":165000,
+        "Approx. Total Fees(4 years)":"2.5 - 3.0 Lakh",
+        "Hostel Fees":"\u20b950,000 \u2013 \u20b975,000",
+        "Highest Package (Approx. CTC)":"\u20b95 \u2013 9 LPA"
+    },
+    {
+        "College Name":"Manda Institute of Technology, Bikaner",
+        "Location":"Bikaner",
+        "Category":"EWS",
+        "Percentile":75,
+        "CRL Rank":275000,
+        "Approx. Total Fees(4 years)":"2.5 - 3.0 Lakh",
+        "Hostel Fees":"50,000 \u2013 75,000",
+        "Highest Package (Approx. CTC)":"5 \u2013 9 LPA"
+    },
+    {
+        "College Name":"Manda Institute of Technology, Bikaner",
+        "Location":"Bikaner",
+        "Category":"OBC",
+        "Percentile":73,
+        "CRL Rank":297000,
+        "Approx. Total Fees(4 years)":"2.5 - 3.0 Lakh",
+        "Hostel Fees":"50,000 \u2013 75,000",
+        "Highest Package (Approx. CTC)":"5 \u2013 9 LPA"
+    },
+    {
+        "College Name":"Manda Institute of Technology, Bikaner",
+        "Location":"Bikaner",
+        "Category":"SC",
+        "Percentile":52,
+        "CRL Rank":528000,
+        "Approx. Total Fees(4 years)":"2.5 - 3.0 Lakh",
+        "Hostel Fees":"50,000 \u2013 75,000",
+        "Highest Package (Approx. CTC)":"5 \u2013 9 LPA"
+    },
+    {
+        "College Name":"Manda Institute of Technology, Bikaner",
+        "Location":"Bikaner",
+        "Category":"ST",
+        "Percentile":37,
+        "CRL Rank":693000,
+        "Approx. Total Fees(4 years)":"2.5 - 3.0 Lakh",
+        "Hostel Fees":"50,000 \u2013 75,000",
+        "Highest Package (Approx. CTC)":"5 \u2013 9 LPA"
+    },
+    {
+        "College Name":"Modern Institute of Technology & Research Centre",
+        "Location":"Alwar",
+        "Category":"General",
+        "Percentile":85,
+        "CRL Rank":165000,
+        "Approx. Total Fees(4 years)":"2.8 - 3.4 Lakh",
+        "Hostel Fees":"\u20b960,000 \u2013 \u20b980,000",
+        "Highest Package (Approx. CTC)":"\u20b96 \u2013 9 LPA"
+    },
+    {
+        "College Name":"Modern Inst. of Tech. & Research Centre, Alwar",
+        "Location":"Alwar",
+        "Category":"EWS",
+        "Percentile":75,
+        "CRL Rank":275000,
+        "Approx. Total Fees(4 years)":"2.8 - 3.4 Lakh",
+        "Hostel Fees":"60,000 \u2013 80,000",
+        "Highest Package (Approx. CTC)":"6 \u2013 9 LPA"
+    },
+    {
+        "College Name":"Modern Inst. of Tech. & Research Centre, Alwar",
+        "Location":"Alwar",
+        "Category":"OBC",
+        "Percentile":73,
+        "CRL Rank":297000,
+        "Approx. Total Fees(4 years)":"2.8 - 3.4 Lakh",
+        "Hostel Fees":"60,000 \u2013 80,000",
+        "Highest Package (Approx. CTC)":"6 \u2013 9 LPA"
+    },
+    {
+        "College Name":"Modern Inst. of Tech. & Research Centre, Alwar",
+        "Location":"Alwar",
+        "Category":"SC",
+        "Percentile":52,
+        "CRL Rank":528000,
+        "Approx. Total Fees(4 years)":"2.8 - 3.4 Lakh",
+        "Hostel Fees":"60,000 \u2013 80,000",
+        "Highest Package (Approx. CTC)":"6 \u2013 9 LPA"
+    },
+    {
+        "College Name":"Modern Inst. of Tech. & Research Centre, Alwar",
+        "Location":"Alwar",
+        "Category":"ST",
+        "Percentile":37,
+        "CRL Rank":693000,
+        "Approx. Total Fees(4 years)":"2.8 - 3.4 Lakh",
+        "Hostel Fees":"60,000 \u2013 80,000",
+        "Highest Package (Approx. CTC)":"6 \u2013 9 LPA"
+    },
+    {
+        "College Name":"Nathdwara Institute of Engineering & Technology",
+        "Location":"Rajsamand",
+        "Category":"General",
+        "Percentile":85,
+        "CRL Rank":165000,
+        "Approx. Total Fees(4 years)":"2.5 - 3.2 Lakh",
+        "Hostel Fees":"\u20b950,000 \u2013 \u20b975,000",
+        "Highest Package (Approx. CTC)":"\u20b95 \u2013 8 LPA"
+    },
+    {
+        "College Name":"Nathdwara Inst. of Engg. & Tech., Rajsamand",
+        "Location":"Rajsamand",
+        "Category":"EWS",
+        "Percentile":75,
+        "CRL Rank":275000,
+        "Approx. Total Fees(4 years)":"2.5 - 3.2 Lakh",
+        "Hostel Fees":"50,000 \u2013 75,000",
+        "Highest Package (Approx. CTC)":"5 \u2013 8 LPA"
+    },
+    {
+        "College Name":"Nathdwara Inst. of Engg. & Tech., Rajsamand",
+        "Location":"Rajsamand",
+        "Category":"OBC",
+        "Percentile":73,
+        "CRL Rank":297000,
+        "Approx. Total Fees(4 years)":"2.5 - 3.2 Lakh",
+        "Hostel Fees":"50,000 \u2013 75,000",
+        "Highest Package (Approx. CTC)":"5 \u2013 8 LPA"
+    },
+    {
+        "College Name":"Nathdwara Inst. of Engg. & Tech., Rajsamand",
+        "Location":"Rajsamand",
+        "Category":"SC",
+        "Percentile":52,
+        "CRL Rank":528000,
+        "Approx. Total Fees(4 years)":"2.5 - 3.2 Lakh",
+        "Hostel Fees":"50,000 \u2013 75,000",
+        "Highest Package (Approx. CTC)":"5 \u2013 8 LPA"
+    },
+    {
+        "College Name":"Nathdwara Inst. of Engg. & Tech., Rajsamand",
+        "Location":"Rajsamand",
+        "Category":"ST",
+        "Percentile":37,
+        "CRL Rank":693000,
+        "Approx. Total Fees(4 years)":"2.5 - 3.2 Lakh",
+        "Hostel Fees":"50,000 \u2013 75,000",
+        "Highest Package (Approx. CTC)":"5 \u2013 8 LPA"
+    },
+    {
+        "College Name":"Northern Institute of Engg. & Technical Campus",
+        "Location":"Alwar",
+        "Category":"General",
+        "Percentile":85,
+        "CRL Rank":165000,
+        "Approx. Total Fees(4 years)":"2.4 - 3.0 Lakh",
+        "Hostel Fees":"\u20b950,000 \u2013 \u20b980,000",
+        "Highest Package (Approx. CTC)":"\u20b95 \u2013 8 LPA"
+    },
+    {
+        "College Name":"Northern Inst. of Engg. & Tech. Campus, Alwar",
+        "Location":"Alwar",
+        "Category":"EWS",
+        "Percentile":75,
+        "CRL Rank":275000,
+        "Approx. Total Fees(4 years)":"2.4 - 3.0 Lakh",
+        "Hostel Fees":"50,000 \u2013 80,000",
+        "Highest Package (Approx. CTC)":"5 \u2013 8 LPA"
+    },
+    {
+        "College Name":"Northern Inst. of Engg. & Tech. Campus, Alwar",
+        "Location":"Alwar",
+        "Category":"OBC",
+        "Percentile":73,
+        "CRL Rank":297000,
+        "Approx. Total Fees(4 years)":"2.4 - 3.0 Lakh",
+        "Hostel Fees":"50,000 \u2013 80,000",
+        "Highest Package (Approx. CTC)":"5 \u2013 8 LPA"
+    },
+    {
+        "College Name":"Northern Inst. of Engg. & Tech. Campus, Alwar",
+        "Location":"Alwar",
+        "Category":"SC",
+        "Percentile":52,
+        "CRL Rank":528000,
+        "Approx. Total Fees(4 years)":"2.4 - 3.0 Lakh",
+        "Hostel Fees":"50,000 \u2013 80,000",
+        "Highest Package (Approx. CTC)":"5 \u2013 8 LPA"
+    },
+    {
+        "College Name":"Northern Inst. of Engg. & Tech. Campus, Alwar",
+        "Location":"Alwar",
+        "Category":"ST",
+        "Percentile":37,
+        "CRL Rank":693000,
+        "Approx. Total Fees(4 years)":"2.4 - 3.0 Lakh",
+        "Hostel Fees":"50,000 \u2013 80,000",
+        "Highest Package (Approx. CTC)":"5 \u2013 8 LPA"
+    },
+    {
+        "College Name":"Govt. Engineering College, Dholpur",
+        "Location":"Dholpur",
+        "Category":"General",
+        "Percentile":85,
+        "CRL Rank":165000,
+        "Approx. Total Fees(4 years)":"1.8 - 2.2 Lakh",
+        "Hostel Fees":"\u20b915k\u201330k",
+        "Highest Package (Approx. CTC)":"\u20b95\u20139 LPA"
+    },
+    {
+        "College Name":"Govt. Engineering College, Dholpur",
+        "Location":"Dholpur",
+        "Category":"EWS",
+        "Percentile":75,
+        "CRL Rank":275000,
+        "Approx. Total Fees(4 years)":"1.8 - 2.2 Lakh",
+        "Hostel Fees":"15k\u201330k",
+        "Highest Package (Approx. CTC)":"5\u20139 LPA"
+    },
+    {
+        "College Name":"Govt. Engineering College, Dholpur",
+        "Location":"Dholpur",
+        "Category":"OBC",
+        "Percentile":73,
+        "CRL Rank":297000,
+        "Approx. Total Fees(4 years)":"1.8 - 2.2 Lakh",
+        "Hostel Fees":"15k\u201330k",
+        "Highest Package (Approx. CTC)":"5\u20139 LPA"
+    },
+    {
+        "College Name":"Govt. Engineering College, Dholpur",
+        "Location":"Dholpur",
+        "Category":"SC",
+        "Percentile":52,
+        "CRL Rank":528000,
+        "Approx. Total Fees(4 years)":"1.8 - 2.2 Lakh",
+        "Hostel Fees":"15k\u201330k",
+        "Highest Package (Approx. CTC)":"5\u20139 LPA"
+    },
+    {
+        "College Name":"Govt. Engineering College, Dholpur",
+        "Location":"Dholpur",
+        "Category":"ST",
+        "Percentile":37,
+        "CRL Rank":693000,
+        "Approx. Total Fees(4 years)":"1.8 - 2.2 Lakh",
+        "Hostel Fees":"15k\u201330k",
+        "Highest Package (Approx. CTC)":"5\u20139 LPA"
+    },
+    {
+        "College Name":"Govt. Engineering College, Karauli",
+        "Location":"Karauli",
+        "Category":"General",
+        "Percentile":85,
+        "CRL Rank":165000,
+        "Approx. Total Fees(4 years)":"1.8 - 2.2 Lakh",
+        "Hostel Fees":"15k\u201330k",
+        "Highest Package (Approx. CTC)":"5\u20139 LPA"
+    },
+    {
+        "College Name":"Govt. Engineering College, Karauli",
+        "Location":"Karauli",
+        "Category":"EWS",
+        "Percentile":75,
+        "CRL Rank":275000,
+        "Approx. Total Fees(4 years)":"1.8 - 2.2 Lakh",
+        "Hostel Fees":"15k\u201330k",
+        "Highest Package (Approx. CTC)":"5\u20139 LPA"
+    },
+    {
+        "College Name":"Govt. Engineering College, Karauli",
+        "Location":"Karauli",
+        "Category":"OBC",
+        "Percentile":73,
+        "CRL Rank":297000,
+        "Approx. Total Fees(4 years)":"1.8 - 2.2 Lakh",
+        "Hostel Fees":"15k\u201330k",
+        "Highest Package (Approx. CTC)":"5\u20139 LPA"
+    },
+    {
+        "College Name":"Govt. Engineering College, Karauli",
+        "Location":"Karauli",
+        "Category":"SC",
+        "Percentile":52,
+        "CRL Rank":528000,
+        "Approx. Total Fees(4 years)":"1.8 - 2.2 Lakh",
+        "Hostel Fees":"15k\u201330k",
+        "Highest Package (Approx. CTC)":"5\u20139 LPA"
+    },
+    {
+        "College Name":"Govt. Engineering College, Karauli",
+        "Location":"Karauli",
+        "Category":"ST",
+        "Percentile":37,
+        "CRL Rank":693000,
+        "Approx. Total Fees(4 years)":"1.8 - 2.2 Lakh",
+        "Hostel Fees":"15k\u201330k",
+        "Highest Package (Approx. CTC)":"5\u20139 LPA"
+    },
+    {
+        "College Name":"Government Mahila Engineering College, Ajmer",
+        "Location":"Ajmer",
+        "Category":"General",
+        "Percentile":85,
+        "CRL Rank":165000,
+        "Approx. Total Fees(4 years)":"2.0 - 2.4 Lakh",
+        "Hostel Fees":"20k\u201335k",
+        "Highest Package (Approx. CTC)":"6\u201310 LPA"
+    },
+    {
+        "College Name":"Government Mahila Engineering College, Ajmer",
+        "Location":"Ajmer",
+        "Category":"EWS",
+        "Percentile":75,
+        "CRL Rank":275000,
+        "Approx. Total Fees(4 years)":"2.0 - 2.4 Lakh",
+        "Hostel Fees":"20k\u201335k",
+        "Highest Package (Approx. CTC)":"6\u201310 LPA"
+    },
+    {
+        "College Name":"Government Mahila Engineering College, Ajmer",
+        "Location":"Ajmer",
+        "Category":"OBC",
+        "Percentile":73,
+        "CRL Rank":297000,
+        "Approx. Total Fees(4 years)":"2.0 - 2.4 Lakh",
+        "Hostel Fees":"20k\u201335k",
+        "Highest Package (Approx. CTC)":"6\u201310 LPA"
+    },
+    {
+        "College Name":"Government Mahila Engineering College, Ajmer",
+        "Location":"Ajmer",
+        "Category":"SC",
+        "Percentile":52,
+        "CRL Rank":528000,
+        "Approx. Total Fees(4 years)":"2.0 - 2.4 Lakh",
+        "Hostel Fees":"20k\u201335k",
+        "Highest Package (Approx. CTC)":"6\u201310 LPA"
+    },
+    {
+        "College Name":"Government Mahila Engineering College, Ajmer",
+        "Location":"Ajmer",
+        "Category":"ST",
+        "Percentile":37,
+        "CRL Rank":693000,
+        "Approx. Total Fees(4 years)":"2.0 - 2.4 Lakh",
+        "Hostel Fees":"20k\u201335k",
+        "Highest Package (Approx. CTC)":"6\u201310 LPA"
+    },
+    {
+        "College Name":"M.L.V. Textile & Engineering College, Bhilwara",
+        "Location":"Bhilwara",
+        "Category":"General",
+        "Percentile":85,
+        "CRL Rank":165000,
+        "Approx. Total Fees(4 years)":"1.8 - 2.5 Lakh",
+        "Hostel Fees":"15k\u201340k",
+        "Highest Package (Approx. CTC)":"5\u20139 LPA"
+    },
+    {
+        "College Name":"M.L.V. Textile & Engineering College, Bhilwara",
+        "Location":"Bhilwara",
+        "Category":"EWS",
+        "Percentile":75,
+        "CRL Rank":275000,
+        "Approx. Total Fees(4 years)":"1.8 - 2.5 Lakh",
+        "Hostel Fees":"15k\u201340k",
+        "Highest Package (Approx. CTC)":"5\u20139 LPA"
+    },
+    {
+        "College Name":"M.L.V. Textile & Engineering College, Bhilwara",
+        "Location":"Bhilwara",
+        "Category":"OBC",
+        "Percentile":73,
+        "CRL Rank":297000,
+        "Approx. Total Fees(4 years)":"1.8 - 2.5 Lakh",
+        "Hostel Fees":"15k\u201340k",
+        "Highest Package (Approx. CTC)":"5\u20139 LPA"
+    },
+    {
+        "College Name":"M.L.V. Textile & Engineering College, Bhilwara",
+        "Location":"Bhilwara",
+        "Category":"SC",
+        "Percentile":52,
+        "CRL Rank":528000,
+        "Approx. Total Fees(4 years)":"1.8 - 2.5 Lakh",
+        "Hostel Fees":"15k\u201340k",
+        "Highest Package (Approx. CTC)":"5\u20139 LPA"
+    },
+    {
+        "College Name":"M.L.V. Textile & Engineering College, Bhilwara",
+        "Location":"Bhilwara",
+        "Category":"ST",
+        "Percentile":37,
+        "CRL Rank":693000,
+        "Approx. Total Fees(4 years)":"1.8 - 2.5 Lakh",
+        "Hostel Fees":"15k\u201340k",
+        "Highest Package (Approx. CTC)":"5\u20139 LPA"
+    },
+    {
+        "College Name":"Pacific College of Engineering",
+        "Location":"Udaipur",
+        "Category":"General",
+        "Percentile":85,
+        "CRL Rank":165000,
+        "Approx. Total Fees(4 years)":"2.8 - 3.4 Lakh",
+        "Hostel Fees":"\u20b960k\u201380k",
+        "Highest Package (Approx. CTC)":"\u20b95\u20139 LPA"
+    },
+    {
+        "College Name":"Pacific College of Engineering",
+        "Location":"Udaipur",
+        "Category":"EWS",
+        "Percentile":75,
+        "CRL Rank":275000,
+        "Approx. Total Fees(4 years)":"2.8 - 3.4 Lakh",
+        "Hostel Fees":"\u20b960k\u201380k",
+        "Highest Package (Approx. CTC)":"\u20b95\u20139 LPA"
+    },
+    {
+        "College Name":"Pacific College of Engineering",
+        "Location":"Udaipur",
+        "Category":"OBC",
+        "Percentile":73,
+        "CRL Rank":297000,
+        "Approx. Total Fees(4 years)":"2.8 - 3.4 Lakh",
+        "Hostel Fees":"\u20b960k\u201380k",
+        "Highest Package (Approx. CTC)":"\u20b95\u20139 LPA"
+    },
+    {
+        "College Name":"Pacific College of Engineering",
+        "Location":"Udaipur",
+        "Category":"SC",
+        "Percentile":52,
+        "CRL Rank":528000,
+        "Approx. Total Fees(4 years)":"2.8 - 3.4 Lakh",
+        "Hostel Fees":"\u20b960k\u201380k",
+        "Highest Package (Approx. CTC)":"\u20b95\u20139 LPA"
+    },
+    {
+        "College Name":"Pacific College of Engineering",
+        "Location":"Udaipur",
+        "Category":"ST",
+        "Percentile":37,
+        "CRL Rank":693000,
+        "Approx. Total Fees(4 years)":"2.8 - 3.4 Lakh",
+        "Hostel Fees":"\u20b960k\u201380k",
+        "Highest Package (Approx. CTC)":"\u20b95\u20139 LPA"
+    },
+    {
+        "College Name":"Poornima Group of Institutions",
+        "Location":"Jaipur",
+        "Category":"General",
+        "Percentile":85,
+        "CRL Rank":165000,
+        "Approx. Total Fees(4 years)":"3.0 - 3.6 Lakh",
+        "Hostel Fees":"\u20b960k\u201390k",
+        "Highest Package (Approx. CTC)":"\u20b96\u201310 LPA"
+    },
+    {
+        "College Name":"Poornima Group of Institutions",
+        "Location":"Jaipur",
+        "Category":"EWS",
+        "Percentile":75,
+        "CRL Rank":275000,
+        "Approx. Total Fees(4 years)":"3.0 - 3.6 Lakh",
+        "Hostel Fees":"\u20b960k\u201390k",
+        "Highest Package (Approx. CTC)":"\u20b96\u201310 LPA"
+    },
+    {
+        "College Name":"Poornima Group of Institutions",
+        "Location":"Jaipur",
+        "Category":"OBC",
+        "Percentile":73,
+        "CRL Rank":297000,
+        "Approx. Total Fees(4 years)":"3.0 - 3.6 Lakh",
+        "Hostel Fees":"\u20b960k\u201390k",
+        "Highest Package (Approx. CTC)":"\u20b96\u201310 LPA"
+    },
+    {
+        "College Name":"Poornima Group of Institutions",
+        "Location":"Jaipur",
+        "Category":"SC",
+        "Percentile":52,
+        "CRL Rank":528000,
+        "Approx. Total Fees(4 years)":"3.0 - 3.6 Lakh",
+        "Hostel Fees":"\u20b960k\u201390k",
+        "Highest Package (Approx. CTC)":"\u20b96\u201310 LPA"
+    },
+    {
+        "College Name":"Poornima Group of Institutions",
+        "Location":"Jaipur",
+        "Category":"ST",
+        "Percentile":37,
+        "CRL Rank":693000,
+        "Approx. Total Fees(4 years)":"3.0 - 3.6 Lakh",
+        "Hostel Fees":"\u20b960k\u201390k",
+        "Highest Package (Approx. CTC)":"\u20b96\u201310 LPA"
+    },
+    {
+        "College Name":"Pratap Institute of Technology & Science",
+        "Location":"Sikar",
+        "Category":"General",
+        "Percentile":85,
+        "CRL Rank":165000,
+        "Approx. Total Fees(4 years)":"2.4 - 3.0 Lakh",
+        "Hostel Fees":"\u20b950k\u201370k",
+        "Highest Package (Approx. CTC)":"\u20b95\u20138 LPA"
+    },
+    {
+        "College Name":"Pratap Institute of Technology & Science",
+        "Location":"Sikar",
+        "Category":"EWS",
+        "Percentile":75,
+        "CRL Rank":275000,
+        "Approx. Total Fees(4 years)":"2.4 - 3.0 Lakh",
+        "Hostel Fees":"\u20b950k\u201370k",
+        "Highest Package (Approx. CTC)":"\u20b95\u20138 LPA"
+    },
+    {
+        "College Name":"Pratap Institute of Technology & Science",
+        "Location":"Sikar",
+        "Category":"OBC",
+        "Percentile":73,
+        "CRL Rank":297000,
+        "Approx. Total Fees(4 years)":"2.4 - 3.0 Lakh",
+        "Hostel Fees":"\u20b950k\u201370k",
+        "Highest Package (Approx. CTC)":"\u20b95\u20138 LPA"
+    },
+    {
+        "College Name":"Pratap Institute of Technology & Science",
+        "Location":"Sikar",
+        "Category":"SC",
+        "Percentile":52,
+        "CRL Rank":528000,
+        "Approx. Total Fees(4 years)":"2.4 - 3.0 Lakh",
+        "Hostel Fees":"\u20b950k\u201370k",
+        "Highest Package (Approx. CTC)":"\u20b95\u20138 LPA"
+    },
+    {
+        "College Name":"Pratap Institute of Technology & Science",
+        "Location":"Sikar",
+        "Category":"ST",
+        "Percentile":37,
+        "CRL Rank":693000,
+        "Approx. Total Fees(4 years)":"2.4 - 3.0 Lakh",
+        "Hostel Fees":"\u20b950k\u201370k",
+        "Highest Package (Approx. CTC)":"\u20b95\u20138 LPA"
+    },
+    {
+        "College Name":"Raj Engineering College",
+        "Location":"Jodhpur",
+        "Category":"General",
+        "Percentile":85,
+        "CRL Rank":165000,
+        "Approx. Total Fees(4 years)":"2.5 - 3.2 Lakh",
+        "Hostel Fees":"\u20b950k\u201380k",
+        "Highest Package (Approx. CTC)":"\u20b95\u20138 LPA"
+    },
+    {
+        "College Name":"Raj Engineering College",
+        "Location":"Jodhpur",
+        "Category":"EWS",
+        "Percentile":75,
+        "CRL Rank":275000,
+        "Approx. Total Fees(4 years)":"2.5 - 3.2 Lakh",
+        "Hostel Fees":"\u20b950k\u201380k",
+        "Highest Package (Approx. CTC)":"\u20b95\u20138 LPA"
+    },
+    {
+        "College Name":"Raj Engineering College",
+        "Location":"Jodhpur",
+        "Category":"OBC",
+        "Percentile":73,
+        "CRL Rank":297000,
+        "Approx. Total Fees(4 years)":"2.5 - 3.2 Lakh",
+        "Hostel Fees":"\u20b950k\u201380k",
+        "Highest Package (Approx. CTC)":"\u20b95\u20138 LPA"
+    },
+    {
+        "College Name":"Raj Engineering College",
+        "Location":"Jodhpur",
+        "Category":"SC",
+        "Percentile":52,
+        "CRL Rank":528000,
+        "Approx. Total Fees(4 years)":"2.5 - 3.2 Lakh",
+        "Hostel Fees":"\u20b950k\u201380k",
+        "Highest Package (Approx. CTC)":"\u20b95\u20138 LPA"
+    },
+    {
+        "College Name":"Raj Engineering College",
+        "Location":"Jodhpur",
+        "Category":"ST",
+        "Percentile":37,
+        "CRL Rank":693000,
+        "Approx. Total Fees(4 years)":"2.5 - 3.2 Lakh",
+        "Hostel Fees":"\u20b950k\u201380k",
+        "Highest Package (Approx. CTC)":"\u20b95\u20138 LPA"
+    },
+    {
+        "College Name":"Rajasthan Engineering College",
+        "Location":"Dausa",
+        "Category":"General",
+        "Percentile":85,
+        "CRL Rank":165000,
+        "Approx. Total Fees(4 years)":"2.4 - 3.0 Lakh",
+        "Hostel Fees":"\u20b950k\u201375k",
+        "Highest Package (Approx. CTC)":"\u20b95\u20138 LPA"
+    },
+    {
+        "College Name":"Rajasthan Engineering College",
+        "Location":"Dausa",
+        "Category":"EWS",
+        "Percentile":75,
+        "CRL Rank":275000,
+        "Approx. Total Fees(4 years)":"2.4 - 3.0 Lakh",
+        "Hostel Fees":"\u20b950k\u201375k",
+        "Highest Package (Approx. CTC)":"\u20b95\u20138 LPA"
+    },
+    {
+        "College Name":"Rajasthan Engineering College",
+        "Location":"Dausa",
+        "Category":"OBC",
+        "Percentile":73,
+        "CRL Rank":297000,
+        "Approx. Total Fees(4 years)":"2.4 - 3.0 Lakh",
+        "Hostel Fees":"\u20b950k\u201375k",
+        "Highest Package (Approx. CTC)":"\u20b95\u20138 LPA"
+    },
+    {
+        "College Name":"Rajasthan Engineering College",
+        "Location":"Dausa",
+        "Category":"SC",
+        "Percentile":52,
+        "CRL Rank":528000,
+        "Approx. Total Fees(4 years)":"2.4 - 3.0 Lakh",
+        "Hostel Fees":"\u20b950k\u201375k",
+        "Highest Package (Approx. CTC)":"\u20b95\u20138 LPA"
+    },
+    {
+        "College Name":"Rajasthan Engineering College",
+        "Location":"Dausa",
+        "Category":"ST",
+        "Percentile":37,
+        "CRL Rank":693000,
+        "Approx. Total Fees(4 years)":"2.4 - 3.0 Lakh",
+        "Hostel Fees":"\u20b950k\u201375k",
+        "Highest Package (Approx. CTC)":"\u20b95\u20138 LPA"
+    },
+    {
+        "College Name":"Rajasthan Institute of Engineering & Technology (Chittorgarh)",
+        "Location":"Chittorgarh",
+        "Category":"General",
+        "Percentile":85,
+        "CRL Rank":165000,
+        "Approx. Total Fees(4 years)":"2.4 - 3.0 Lakh",
+        "Hostel Fees":"\u20b950k\u201375k",
+        "Highest Package (Approx. CTC)":"\u20b95\u20138 LPA"
+    },
+    {
+        "College Name":"Rajasthan Institute of Engineering & Technology (Chittorgarh)",
+        "Location":"Chittorgarh",
+        "Category":"EWS",
+        "Percentile":75,
+        "CRL Rank":275000,
+        "Approx. Total Fees(4 years)":"2.4 - 3.0 Lakh",
+        "Hostel Fees":"\u20b950k\u201375k",
+        "Highest Package (Approx. CTC)":"\u20b95\u20138 LPA"
+    },
+    {
+        "College Name":"Rajasthan Institute of Engineering & Technology (Chittorgarh)",
+        "Location":"Chittorgarh",
+        "Category":"OBC",
+        "Percentile":73,
+        "CRL Rank":297000,
+        "Approx. Total Fees(4 years)":"2.4 - 3.0 Lakh",
+        "Hostel Fees":"\u20b950k\u201375k",
+        "Highest Package (Approx. CTC)":"\u20b95\u20138 LPA"
+    },
+    {
+        "College Name":"Rajasthan Institute of Engineering & Technology (Chittorgarh)",
+        "Location":"Chittorgarh",
+        "Category":"SC",
+        "Percentile":52,
+        "CRL Rank":528000,
+        "Approx. Total Fees(4 years)":"2.4 - 3.0 Lakh",
+        "Hostel Fees":"\u20b950k\u201375k",
+        "Highest Package (Approx. CTC)":"\u20b95\u20138 LPA"
+    },
+    {
+        "College Name":"Rajasthan Institute of Engineering & Technology (Chittorgarh)",
+        "Location":"Chittorgarh",
+        "Category":"ST",
+        "Percentile":37,
+        "CRL Rank":693000,
+        "Approx. Total Fees(4 years)":"2.4 - 3.0 Lakh",
+        "Hostel Fees":"\u20b950k\u201375k",
+        "Highest Package (Approx. CTC)":"\u20b95\u20138 LPA"
+    },
+    {
+        "College Name":"Rajdhani Engineering College",
+        "Location":"Jaipur",
+        "Category":"General",
+        "Percentile":85,
+        "CRL Rank":165000,
+        "Approx. Total Fees(4 years)":"2.8 - 3.5 Lakh",
+        "Hostel Fees":"\u20b960k\u201385k",
+        "Highest Package (Approx. CTC)":"\u20b95\u20139 LPA"
+    },
+    {
+        "College Name":"Rajdhani Engineering College",
+        "Location":"Jaipur",
+        "Category":"EWS",
+        "Percentile":75,
+        "CRL Rank":275000,
+        "Approx. Total Fees(4 years)":"2.8 - 3.5 Lakh",
+        "Hostel Fees":"\u20b960k\u201385k",
+        "Highest Package (Approx. CTC)":"\u20b95\u20139 LPA"
+    },
+    {
+        "College Name":"Rajdhani Engineering College",
+        "Location":"Jaipur",
+        "Category":"OBC",
+        "Percentile":73,
+        "CRL Rank":297000,
+        "Approx. Total Fees(4 years)":"2.8 - 3.5 Lakh",
+        "Hostel Fees":"\u20b960k\u201385k",
+        "Highest Package (Approx. CTC)":"\u20b95\u20139 LPA"
+    },
+    {
+        "College Name":"Rajdhani Engineering College",
+        "Location":"Jaipur",
+        "Category":"SC",
+        "Percentile":52,
+        "CRL Rank":528000,
+        "Approx. Total Fees(4 years)":"2.8 - 3.5 Lakh",
+        "Hostel Fees":"\u20b960k\u201385k",
+        "Highest Package (Approx. CTC)":"\u20b95\u20139 LPA"
+    },
+    {
+        "College Name":"Rajdhani Engineering College",
+        "Location":"Jaipur",
+        "Category":"ST",
+        "Percentile":37,
+        "CRL Rank":693000,
+        "Approx. Total Fees(4 years)":"2.8 - 3.5 Lakh",
+        "Hostel Fees":"\u20b960k\u201385k",
+        "Highest Package (Approx. CTC)":"\u20b95\u20139 LPA"
+    },
+    {
+        "College Name":"Regional College for Education, Research & Technology",
+        "Location":"Jaipur",
+        "Category":"General",
+        "Percentile":85,
+        "CRL Rank":165000,
+        "Approx. Total Fees(4 years)":"2.8 - 3.4 Lakh",
+        "Hostel Fees":"\u20b960k\u201380k",
+        "Highest Package (Approx. CTC)":"\u20b95\u20139 LPA"
+    },
+    {
+        "College Name":"Regional College for Education, Research & Technology",
+        "Location":"Jaipur",
+        "Category":"EWS",
+        "Percentile":75,
+        "CRL Rank":275000,
+        "Approx. Total Fees(4 years)":"2.8 - 3.4 Lakh",
+        "Hostel Fees":"\u20b960k\u201380k",
+        "Highest Package (Approx. CTC)":"\u20b95\u20139 LPA"
+    },
+    {
+        "College Name":"Regional College for Education, Research & Technology",
+        "Location":"Jaipur",
+        "Category":"OBC",
+        "Percentile":73,
+        "CRL Rank":297000,
+        "Approx. Total Fees(4 years)":"2.8 - 3.4 Lakh",
+        "Hostel Fees":"\u20b960k\u201380k",
+        "Highest Package (Approx. CTC)":"\u20b95\u20139 LPA"
+    },
+    {
+        "College Name":"Regional College for Education, Research & Technology",
+        "Location":"Jaipur",
+        "Category":"SC",
+        "Percentile":52,
+        "CRL Rank":528000,
+        "Approx. Total Fees(4 years)":"2.8 - 3.4 Lakh",
+        "Hostel Fees":"\u20b960k\u201380k",
+        "Highest Package (Approx. CTC)":"\u20b95\u20139 LPA"
+    },
+    {
+        "College Name":"Regional College for Education, Research & Technology",
+        "Location":"Jaipur",
+        "Category":"ST",
+        "Percentile":37,
+        "CRL Rank":693000,
+        "Approx. Total Fees(4 years)":"2.8 - 3.4 Lakh",
+        "Hostel Fees":"\u20b960k\u201380k",
+        "Highest Package (Approx. CTC)":"\u20b95\u20139 LPA"
+    },
+    {
+        "College Name":"Sawai Madhopur College of Engg. & Tech.",
+        "Location":"Sawai Madhopur",
+        "Category":"General",
+        "Percentile":85,
+        "CRL Rank":165000,
+        "Approx. Total Fees(4 years)":"2.6 - 3.2 Lakh",
+        "Hostel Fees":"\u20b955k\u201375k",
+        "Highest Package (Approx. CTC)":"\u20b94.5\u20138 LPA"
+    },
+    {
+        "College Name":"Sawai Madhopur College of Engg. & Tech.",
+        "Location":"Sawai Madhopur",
+        "Category":"EWS",
+        "Percentile":75,
+        "CRL Rank":275000,
+        "Approx. Total Fees(4 years)":"2.6 - 3.2 Lakh",
+        "Hostel Fees":"\u20b955k\u201375k",
+        "Highest Package (Approx. CTC)":"\u20b94.5\u20138 LPA"
+    },
+    {
+        "College Name":"Sawai Madhopur College of Engg. & Tech.",
+        "Location":"Sawai Madhopur",
+        "Category":"OBC",
+        "Percentile":73,
+        "CRL Rank":297000,
+        "Approx. Total Fees(4 years)":"2.6 - 3.2 Lakh",
+        "Hostel Fees":"\u20b955k\u201375k",
+        "Highest Package (Approx. CTC)":"\u20b94.5\u20138 LPA"
+    },
+    {
+        "College Name":"Sawai Madhopur College of Engg. & Tech.",
+        "Location":"Sawai Madhopur",
+        "Category":"SC",
+        "Percentile":52,
+        "CRL Rank":528000,
+        "Approx. Total Fees(4 years)":"2.6 - 3.2 Lakh",
+        "Hostel Fees":"\u20b955k\u201375k",
+        "Highest Package (Approx. CTC)":"\u20b94.5\u20138 LPA"
+    },
+    {
+        "College Name":"Sawai Madhopur College of Engg. & Tech.",
+        "Location":"Sawai Madhopur",
+        "Category":"ST",
+        "Percentile":37,
+        "CRL Rank":693000,
+        "Approx. Total Fees(4 years)":"2.6 - 3.2 Lakh",
+        "Hostel Fees":"\u20b955k\u201375k",
+        "Highest Package (Approx. CTC)":"\u20b94.5\u20138 LPA"
+    },
+    {
+        "College Name":"School of Aeronautics Neemrana",
+        "Location":"Alwar",
+        "Category":"General",
+        "Percentile":85,
+        "CRL Rank":165000,
+        "Approx. Total Fees(4 years)":"3.0 - 3.8 Lakh",
+        "Hostel Fees":"\u20b960k\u201385k",
+        "Highest Package (Approx. CTC)":"\u20b96\u20139 LPA"
+    },
+    {
+        "College Name":"School of Aeronautics Neemrana",
+        "Location":"Alwar",
+        "Category":"EWS",
+        "Percentile":75,
+        "CRL Rank":275000,
+        "Approx. Total Fees(4 years)":"3.0 - 3.8 Lakh",
+        "Hostel Fees":"\u20b960k\u201385k",
+        "Highest Package (Approx. CTC)":"\u20b96\u20139 LPA"
+    },
+    {
+        "College Name":"School of Aeronautics Neemrana",
+        "Location":"Alwar",
+        "Category":"OBC",
+        "Percentile":73,
+        "CRL Rank":297000,
+        "Approx. Total Fees(4 years)":"3.0 - 3.8 Lakh",
+        "Hostel Fees":"\u20b960k\u201385k",
+        "Highest Package (Approx. CTC)":"\u20b96\u20139 LPA"
+    },
+    {
+        "College Name":"School of Aeronautics Neemrana",
+        "Location":"Alwar",
+        "Category":"SC",
+        "Percentile":52,
+        "CRL Rank":528000,
+        "Approx. Total Fees(4 years)":"3.0 - 3.8 Lakh",
+        "Hostel Fees":"\u20b960k\u201385k",
+        "Highest Package (Approx. CTC)":"\u20b96\u20139 LPA"
+    },
+    {
+        "College Name":"School of Aeronautics Neemrana",
+        "Location":"Alwar",
+        "Category":"ST",
+        "Percentile":37,
+        "CRL Rank":693000,
+        "Approx. Total Fees(4 years)":"3.0 - 3.8 Lakh",
+        "Hostel Fees":"\u20b960k\u201385k",
+        "Highest Package (Approx. CTC)":"\u20b96\u20139 LPA"
+    },
+    {
+        "College Name":"Shekhawati Engineering College",
+        "Location":"Jhunjhunu",
+        "Category":"General",
+        "Percentile":85,
+        "CRL Rank":165000,
+        "Approx. Total Fees(4 years)":"2.5 - 3.1 Lakh",
+        "Hostel Fees":"\u20b950k\u201370k",
+        "Highest Package (Approx. CTC)":"\u20b95\u20138 LPA"
+    },
+    {
+        "College Name":"Shekhawati Engineering College",
+        "Location":"Jhunjhunu",
+        "Category":"EWS",
+        "Percentile":75,
+        "CRL Rank":275000,
+        "Approx. Total Fees(4 years)":"2.5 - 3.1 Lakh",
+        "Hostel Fees":"\u20b950k\u201370k",
+        "Highest Package (Approx. CTC)":"\u20b95\u20138 LPA"
+    },
+    {
+        "College Name":"Shekhawati Engineering College",
+        "Location":"Jhunjhunu",
+        "Category":"OBC",
+        "Percentile":73,
+        "CRL Rank":297000,
+        "Approx. Total Fees(4 years)":"2.5 - 3.1 Lakh",
+        "Hostel Fees":"\u20b950k\u201370k",
+        "Highest Package (Approx. CTC)":"\u20b95\u20138 LPA"
+    },
+    {
+        "College Name":"Shekhawati Engineering College",
+        "Location":"Jhunjhunu",
+        "Category":"SC",
+        "Percentile":52,
+        "CRL Rank":528000,
+        "Approx. Total Fees(4 years)":"2.5 - 3.1 Lakh",
+        "Hostel Fees":"\u20b950k\u201370k",
+        "Highest Package (Approx. CTC)":"\u20b95\u20138 LPA"
+    },
+    {
+        "College Name":"Shekhawati Engineering College",
+        "Location":"Jhunjhunu",
+        "Category":"ST",
+        "Percentile":37,
+        "CRL Rank":693000,
+        "Approx. Total Fees(4 years)":"2.5 - 3.1 Lakh",
+        "Hostel Fees":"\u20b950k\u201370k",
+        "Highest Package (Approx. CTC)":"\u20b95\u20138 LPA"
+    },
+    {
+        "College Name":"Shekhawati Institute of Engineering and Technology",
+        "Location":"Sikar",
+        "Category":"General",
+        "Percentile":85,
+        "CRL Rank":165000,
+        "Approx. Total Fees(4 years)":"2.6 - 3.2 Lakh",
+        "Hostel Fees":"\u20b955k\u201375k",
+        "Highest Package (Approx. CTC)":"\u20b95\u20138 LPA"
+    },
+    {
+        "College Name":"Shekhawati Institute of Engineering and Technology",
+        "Location":"Sikar",
+        "Category":"EWS",
+        "Percentile":75,
+        "CRL Rank":275000,
+        "Approx. Total Fees(4 years)":"2.6 - 3.2 Lakh",
+        "Hostel Fees":"\u20b955k\u201375k",
+        "Highest Package (Approx. CTC)":"\u20b95\u20138 LPA"
+    },
+    {
+        "College Name":"Shekhawati Institute of Engineering and Technology",
+        "Location":"Sikar",
+        "Category":"OBC",
+        "Percentile":73,
+        "CRL Rank":297000,
+        "Approx. Total Fees(4 years)":"2.6 - 3.2 Lakh",
+        "Hostel Fees":"\u20b955k\u201375k",
+        "Highest Package (Approx. CTC)":"\u20b95\u20138 LPA"
+    },
+    {
+        "College Name":"Shekhawati Institute of Engineering and Technology",
+        "Location":"Sikar",
+        "Category":"SC",
+        "Percentile":52,
+        "CRL Rank":528000,
+        "Approx. Total Fees(4 years)":"2.6 - 3.2 Lakh",
+        "Hostel Fees":"\u20b955k\u201375k",
+        "Highest Package (Approx. CTC)":"\u20b95\u20138 LPA"
+    },
+    {
+        "College Name":"Shekhawati Institute of Engineering and Technology",
+        "Location":"Sikar",
+        "Category":"ST",
+        "Percentile":37,
+        "CRL Rank":693000,
+        "Approx. Total Fees(4 years)":"2.6 - 3.2 Lakh",
+        "Hostel Fees":"\u20b955k\u201375k",
+        "Highest Package (Approx. CTC)":"\u20b95\u20138 LPA"
+    },
+    {
+        "College Name":"Shree Digambar Institute of Technology",
+        "Location":"Dausa",
+        "Category":"General",
+        "Percentile":85,
+        "CRL Rank":165000,
+        "Approx. Total Fees(4 years)":"2.4 - 3.0 Lakh",
+        "Hostel Fees":"\u20b950k\u201370k",
+        "Highest Package (Approx. CTC)":"\u20b94.5\u20137.5 LPA"
+    },
+    {
+        "College Name":"Shree Digambar Institute of Technology",
+        "Location":"Dausa",
+        "Category":"EWS",
+        "Percentile":75,
+        "CRL Rank":275000,
+        "Approx. Total Fees(4 years)":"2.4 - 3.0 Lakh",
+        "Hostel Fees":"\u20b950k\u201370k",
+        "Highest Package (Approx. CTC)":"\u20b94.5\u20137.5 LPA"
+    },
+    {
+        "College Name":"Shree Digambar Institute of Technology",
+        "Location":"Dausa",
+        "Category":"OBC",
+        "Percentile":73,
+        "CRL Rank":297000,
+        "Approx. Total Fees(4 years)":"2.4 - 3.0 Lakh",
+        "Hostel Fees":"\u20b950k\u201370k",
+        "Highest Package (Approx. CTC)":"\u20b94.5\u20137.5 LPA"
+    },
+    {
+        "College Name":"Shree Digambar Institute of Technology",
+        "Location":"Dausa",
+        "Category":"SC",
+        "Percentile":52,
+        "CRL Rank":528000,
+        "Approx. Total Fees(4 years)":"2.4 - 3.0 Lakh",
+        "Hostel Fees":"\u20b950k\u201370k",
+        "Highest Package (Approx. CTC)":"\u20b94.5\u20137.5 LPA"
+    },
+    {
+        "College Name":"Shree Digambar Institute of Technology",
+        "Location":"Dausa",
+        "Category":"ST",
+        "Percentile":37,
+        "CRL Rank":693000,
+        "Approx. Total Fees(4 years)":"2.4 - 3.0 Lakh",
+        "Hostel Fees":"\u20b950k\u201370k",
+        "Highest Package (Approx. CTC)":"\u20b94.5\u20137.5 LPA"
+    },
+    {
+        "College Name":"Shri Bhawani Niketan Institute of Technology and Management",
+        "Location":"Jaipur",
+        "Category":"General",
+        "Percentile":85,
+        "CRL Rank":165000,
+        "Approx. Total Fees(4 years)":"2.6 - 3.2 Lakh",
+        "Hostel Fees":"\u20b955k\u201375k",
+        "Highest Package (Approx. CTC)":"\u20b96\u20138 LPA"
+    },
+    {
+        "College Name":"Shri Bhawani Niketan Institute of Technology and Management",
+        "Location":"Jaipur",
+        "Category":"EWS",
+        "Percentile":75,
+        "CRL Rank":275000,
+        "Approx. Total Fees(4 years)":"2.6 - 3.2 Lakh",
+        "Hostel Fees":"\u20b955k\u201375k",
+        "Highest Package (Approx. CTC)":"\u20b96\u20138 LPA"
+    },
+    {
+        "College Name":"Shri Bhawani Niketan Institute of Technology and Management",
+        "Location":"Jaipur",
+        "Category":"OBC",
+        "Percentile":73,
+        "CRL Rank":297000,
+        "Approx. Total Fees(4 years)":"2.6 - 3.2 Lakh",
+        "Hostel Fees":"\u20b955k\u201375k",
+        "Highest Package (Approx. CTC)":"\u20b96\u20138 LPA"
+    },
+    {
+        "College Name":"Shri Bhawani Niketan Institute of Technology and Management",
+        "Location":"Jaipur",
+        "Category":"SC",
+        "Percentile":52,
+        "CRL Rank":528000,
+        "Approx. Total Fees(4 years)":"2.6 - 3.2 Lakh",
+        "Hostel Fees":"\u20b955k\u201375k",
+        "Highest Package (Approx. CTC)":"\u20b96\u20138 LPA"
+    },
+    {
+        "College Name":"Shri Bhawani Niketan Institute of Technology and Management",
+        "Location":"Jaipur",
+        "Category":"ST",
+        "Percentile":37,
+        "CRL Rank":693000,
+        "Approx. Total Fees(4 years)":"2.6 - 3.2 Lakh",
+        "Hostel Fees":"\u20b955k\u201375k",
+        "Highest Package (Approx. CTC)":"\u20b96\u20138 LPA"
+    },
+    {
+        "College Name":"Shrinathji Institute of Technology and Engineering",
+        "Location":"Rajsamand",
+        "Category":"General",
+        "Percentile":85,
+        "CRL Rank":165000,
+        "Approx. Total Fees(4 years)":"2.5 - 3.0 Lakh",
+        "Hostel Fees":"\u20b950k\u201370k",
+        "Highest Package (Approx. CTC)":"\u20b94.5\u20136.5 LPA"
+    },
+    {
+        "College Name":"Shrinathji Institute of Technology and Engineering",
+        "Location":"Rajsamand",
+        "Category":"EWS",
+        "Percentile":75,
+        "CRL Rank":275000,
+        "Approx. Total Fees(4 years)":"2.5 - 3.0 Lakh",
+        "Hostel Fees":"\u20b950k\u201370k",
+        "Highest Package (Approx. CTC)":"\u20b94.5\u20136.5 LPA"
+    },
+    {
+        "College Name":"Shrinathji Institute of Technology and Engineering",
+        "Location":"Rajsamand",
+        "Category":"OBC",
+        "Percentile":73,
+        "CRL Rank":297000,
+        "Approx. Total Fees(4 years)":"2.5 - 3.0 Lakh",
+        "Hostel Fees":"\u20b950k\u201370k",
+        "Highest Package (Approx. CTC)":"\u20b94.5\u20136.5 LPA"
+    },
+    {
+        "College Name":"Shrinathji Institute of Technology and Engineering",
+        "Location":"Rajsamand",
+        "Category":"SC",
+        "Percentile":52,
+        "CRL Rank":528000,
+        "Approx. Total Fees(4 years)":"2.5 - 3.0 Lakh",
+        "Hostel Fees":"\u20b950k\u201370k",
+        "Highest Package (Approx. CTC)":"\u20b94.5\u20136.5 LPA"
+    },
+    {
+        "College Name":"Shrinathji Institute of Technology and Engineering",
+        "Location":"Rajsamand",
+        "Category":"ST",
+        "Percentile":37,
+        "CRL Rank":693000,
+        "Approx. Total Fees(4 years)":"2.5 - 3.0 Lakh",
+        "Hostel Fees":"\u20b950k\u201370k",
+        "Highest Package (Approx. CTC)":"\u20b94.5\u20136.5 LPA"
+    },
+    {
+        "College Name":"SLBS Engineering College",
+        "Location":"Jodhpur",
+        "Category":"General",
+        "Percentile":85,
+        "CRL Rank":165000,
+        "Approx. Total Fees(4 years)":"2.8 - 3.4 Lakh",
+        "Hostel Fees":"\u20b960k\u201380k",
+        "Highest Package (Approx. CTC)":"\u20b96\u20139 LPA"
+    },
+    {
+        "College Name":"SLBS Engineering College",
+        "Location":"Jodhpur",
+        "Category":"EWS",
+        "Percentile":75,
+        "CRL Rank":275000,
+        "Approx. Total Fees(4 years)":"2.8 - 3.4 Lakh",
+        "Hostel Fees":"\u20b960k\u201380k",
+        "Highest Package (Approx. CTC)":"\u20b96\u20139 LPA"
+    },
+    {
+        "College Name":"SLBS Engineering College",
+        "Location":"Jodhpur",
+        "Category":"OBC",
+        "Percentile":73,
+        "CRL Rank":297000,
+        "Approx. Total Fees(4 years)":"2.8 - 3.4 Lakh",
+        "Hostel Fees":"\u20b960k\u201380k",
+        "Highest Package (Approx. CTC)":"\u20b96\u20139 LPA"
+    },
+    {
+        "College Name":"SLBS Engineering College",
+        "Location":"Jodhpur",
+        "Category":"SC",
+        "Percentile":52,
+        "CRL Rank":528000,
+        "Approx. Total Fees(4 years)":"2.8 - 3.4 Lakh",
+        "Hostel Fees":"\u20b960k\u201380k",
+        "Highest Package (Approx. CTC)":"\u20b96\u20139 LPA"
+    },
+    {
+        "College Name":"SLBS Engineering College",
+        "Location":"Jodhpur",
+        "Category":"ST",
+        "Percentile":37,
+        "CRL Rank":693000,
+        "Approx. Total Fees(4 years)":"2.8 - 3.4 Lakh",
+        "Hostel Fees":"\u20b960k\u201380k",
+        "Highest Package (Approx. CTC)":"\u20b96\u20139 LPA"
+    },
+    {
+        "College Name":"Sobhasaria Group of Institutions",
+        "Location":"Sikar",
+        "Category":"General",
+        "Percentile":85,
+        "CRL Rank":165000,
+        "Approx. Total Fees(4 years)":"2.9 - 3.5 Lakh",
+        "Hostel Fees":"\u20b960k\u201385k",
+        "Highest Package (Approx. CTC)":"\u20b96.5\u201310 LPA"
+    },
+    {
+        "College Name":"Sobhasaria Group of Institutions",
+        "Location":"Sikar",
+        "Category":"EWS",
+        "Percentile":75,
+        "CRL Rank":275000,
+        "Approx. Total Fees(4 years)":"2.9 - 3.5 Lakh",
+        "Hostel Fees":"\u20b960k\u201385k",
+        "Highest Package (Approx. CTC)":"\u20b96.5\u201310 LPA"
+    },
+    {
+        "College Name":"Sobhasaria Group of Institutions",
+        "Location":"Sikar",
+        "Category":"OBC",
+        "Percentile":73,
+        "CRL Rank":297000,
+        "Approx. Total Fees(4 years)":"2.9 - 3.5 Lakh",
+        "Hostel Fees":"\u20b960k\u201385k",
+        "Highest Package (Approx. CTC)":"\u20b96.5\u201310 LPA"
+    },
+    {
+        "College Name":"Sobhasaria Group of Institutions",
+        "Location":"Sikar",
+        "Category":"SC",
+        "Percentile":52,
+        "CRL Rank":528000,
+        "Approx. Total Fees(4 years)":"2.9 - 3.5 Lakh",
+        "Hostel Fees":"\u20b960k\u201385k",
+        "Highest Package (Approx. CTC)":"\u20b96.5\u201310 LPA"
+    },
+    {
+        "College Name":"Sobhasaria Group of Institutions",
+        "Location":"Sikar",
+        "Category":"ST",
+        "Percentile":37,
+        "CRL Rank":693000,
+        "Approx. Total Fees(4 years)":"2.9 - 3.5 Lakh",
+        "Hostel Fees":"\u20b960k\u201385k",
+        "Highest Package (Approx. CTC)":"\u20b96.5\u201310 LPA"
+    },
+    {
+        "College Name":"Sri Balaji College of Engineering and Technology",
+        "Location":"Jaipur",
+        "Category":"General",
+        "Percentile":85,
+        "CRL Rank":165000,
+        "Approx. Total Fees(4 years)":"2.8 - 3.4 Lakh",
+        "Hostel Fees":"\u20b960k\u201380k",
+        "Highest Package (Approx. CTC)":"\u20b96.5\u201310 LPA"
+    },
+    {
+        "College Name":"Sri Balaji College of Engineering and Technology",
+        "Location":"Jaipur",
+        "Category":"EWS",
+        "Percentile":75,
+        "CRL Rank":275000,
+        "Approx. Total Fees(4 years)":"2.8 - 3.4 Lakh",
+        "Hostel Fees":"\u20b960k\u201380k",
+        "Highest Package (Approx. CTC)":"\u20b96.5\u201310 LPA"
+    },
+    {
+        "College Name":"Sri Balaji College of Engineering and Technology",
+        "Location":"Jaipur",
+        "Category":"OBC",
+        "Percentile":73,
+        "CRL Rank":297000,
+        "Approx. Total Fees(4 years)":"2.8 - 3.4 Lakh",
+        "Hostel Fees":"\u20b960k\u201380k",
+        "Highest Package (Approx. CTC)":"\u20b96.5\u201310 LPA"
+    },
+    {
+        "College Name":"Sri Balaji College of Engineering and Technology",
+        "Location":"Jaipur",
+        "Category":"SC",
+        "Percentile":52,
+        "CRL Rank":528000,
+        "Approx. Total Fees(4 years)":"2.8 - 3.4 Lakh",
+        "Hostel Fees":"\u20b960k\u201380k",
+        "Highest Package (Approx. CTC)":"\u20b96.5\u201310 LPA"
+    },
+    {
+        "College Name":"Sri Balaji College of Engineering and Technology",
+        "Location":"Jaipur",
+        "Category":"ST",
+        "Percentile":37,
+        "CRL Rank":693000,
+        "Approx. Total Fees(4 years)":"2.8 - 3.4 Lakh",
+        "Hostel Fees":"\u20b960k\u201380k",
+        "Highest Package (Approx. CTC)":"\u20b96.5\u201310 LPA"
+    }
+]
